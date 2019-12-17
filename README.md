@@ -27,10 +27,10 @@ Implementation:
 - In your administration : Configuration / other / language
   - create a new language
     - name : German
-    - code : ge
-    - image : ge
+    - code : de
+    - image : de
     - directory : german
-    - local : es_GE.UTF-8;ge_GE.UTF8;enu_ger
+    - local : de_DE.utf8;enu_deu
 - click on german flag to create the cache in your catalog
 
 
