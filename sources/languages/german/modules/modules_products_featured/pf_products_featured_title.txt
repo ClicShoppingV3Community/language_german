@@ -1,0 +1,4 @@
+module_products_favorites_title = Wilt u de aanbevolen titel weergeven?
+module_products_favorites_title_description = Toon aanbevolen titel
+
+text_heading_title = Aanbevolen producten

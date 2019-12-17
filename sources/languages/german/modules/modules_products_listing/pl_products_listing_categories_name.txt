@@ -1,0 +1,2 @@
+module_products_listing_categories_name_title = Wilt u de categorietitel in de lijst weergeven?
+module_products_listing_categories_name_description = Toon de categorietitel in de lijst

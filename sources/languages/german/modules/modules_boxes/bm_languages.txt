@@ -1,0 +1,3 @@
+module_boxes_langgrams_title = Idiomas
+module_boxes_langgrams_description = Mostrar idiomas disponibles
+module_boxes_langgrams_box_title = Idiomas

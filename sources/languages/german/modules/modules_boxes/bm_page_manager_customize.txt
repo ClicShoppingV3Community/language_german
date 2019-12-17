@@ -1,0 +1,4 @@
+module_boxes_page_manager_customize_title = Secundair informatievak
+module_boxes_page_manager_customize_description = Secundair informatievak
+
+module_boxes_page_manager_customize_box_title = Onze informatie

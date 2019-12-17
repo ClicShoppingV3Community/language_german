@@ -1,0 +1,4 @@
+module_create_account_button_process_title = Wilt u de procesknop weergeven op het formulier Account maken?
+module_create_account_button_process_description = toon de procesknop (belangrijk om true te laten)
+
+button_continue = Doorgaan

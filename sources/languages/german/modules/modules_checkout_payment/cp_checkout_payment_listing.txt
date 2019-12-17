@@ -1,0 +1,7 @@
+module_checkout_payment_listing_title = Wilt u een betaalmethode tonen?
+module_checkout_payment_listing_description = Toon een betaalmethode
+
+module_checkout_payment_listing_table_heading_payment_method = Betalingsmethode
+module_checkout_payment_listing_title_please_select = Selecteer
+module_checkout_payment_listing_text_enter_payment_information = Momenteel is dit de enige betaalmethode die beschikbaar is voor gebruik in deze volgorde
+module_checkout_payment_listing_text_select_payment_method = Selecteer een betaalmethode

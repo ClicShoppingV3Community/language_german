@@ -1,0 +1,2 @@
+module_products_info_gallery_title = Wilt u een afbeelding van de galerij tonen?
+module_products_info_gallery_description = Toon een galerijafbeelding

@@ -1,0 +1,3 @@
+module_shopping_cart_checkout_step_title = Wilt u de stap over het bestelproces laten zien?
+
+module_shopping_cart_checkout_step_description = toont de stap over het bestelproces

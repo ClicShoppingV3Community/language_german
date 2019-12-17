@@ -1,0 +1,12 @@
+module_shopping_cart_products_listing_title = Wilt u de artikelen in de winkelwagen tonen?
+module_shopping_cart_products_listing_description = Toon winkelwagenitems
+
+table_heading_quantity = Hoeveelheid
+table_heading_products = Product (en)
+table_heading_total = Totaal
+
+button_remove = Verwijder dit product uit de winkelwagen
+text_shopping_cart_save_money_for_this_product = Als u dit product koopt, bespaart u:
+text_shopping_cart_save_money_by_product = op hoeveelheid
+text_shopping_cart_products_discount_quantity = Uw korting op basis van de bestelde hoeveelheden producten is toegepast. Je hebt gered
+text_shopping_cart_products_discount_without_tax = Geen belastingen

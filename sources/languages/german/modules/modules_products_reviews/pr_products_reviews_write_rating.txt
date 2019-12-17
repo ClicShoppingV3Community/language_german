@@ -1,0 +1,6 @@
+modules_products_reviews_write_rating_title = Schrijf commentaar: Wilt u de klant het product laten beoordelen?
+modules_products_reviews_write_rating_description = Geef de klant de productsnelheid
+
+modules_products_reviews_write_rating_text_bad = Een beetje
+modules_products_reviews_write_rating_text_good = Zeer goed
+modules_products_reviews_write_rating_text_sub_title_rating = Evaluatie van uw reactie

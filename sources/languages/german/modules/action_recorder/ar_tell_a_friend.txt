@@ -1,0 +1,2 @@
+module cialis_recorder_tell_a_friend_title = Verzenden naar een vriend
+module cialis_recorder_tell_a_friend_description = Registreer het gebruik van de functie Verzenden naar een vriend.

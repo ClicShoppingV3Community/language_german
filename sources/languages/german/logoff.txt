@@ -1,0 +1,3 @@
+heading_title = Afsluiten
+navbar_title = Afsluiten
+text_main = U heeft gevraagd om uw account te verlaten. Nu is het veilig om uw computer te verlaten. <br> <br> Uw winkelwagen is opgeslagen en de inhoud ervan wordt hersteld wanneer u uw account opnieuw invoert.

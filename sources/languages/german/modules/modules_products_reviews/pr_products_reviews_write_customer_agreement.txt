@@ -1,0 +1,2 @@
+modules_productsrecensie_write_customer_agagement_title = Schrijf commentaar: Wilt u een bericht aan de klant laten zien voor verzending?
+modules_productsOORD_write_customer_agagement_description = Toon een bericht voor de klant de klant vóór verzending

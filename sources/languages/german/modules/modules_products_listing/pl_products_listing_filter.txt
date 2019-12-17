@@ -1,0 +1,6 @@
+module_products_listing_filter_title = Wilt u het filter (categorieën of merken) in de lijst weergeven?
+module_products_listing_filter_description = Toon het filter (categorieën of merken) in de lijst
+
+text_all_categories = Alle categorieën
+text_all_filter = Alle merken
+text_show = Weergeven

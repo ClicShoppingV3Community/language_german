@@ -1,0 +1,4 @@
+module_checkout_payment_button_process_title = Wilt u een procesknop weergeven om door te gaan met de procesorder?
+module_checkout_payment_button_process_description = Toon een procesknop om door te gaan met de procesorder
+button_continue = Doorgaan
+

@@ -1,0 +1,4 @@
+module_boxes_page_manager_title = Primair informatievak
+module_boxes_page_manager_description = weergave van hoofdinformatie
+
+module_boxes_page_manager_box_title = Onze diensten

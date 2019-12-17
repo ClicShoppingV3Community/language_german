@@ -1,0 +1,16 @@
+
+navbar_title_1 = Bestellen
+navbar_title_2 = Succesvol
+heading_title = Uw bestelling is verwerkt!
+button_continue = Doorgaan
+
+module_checkout_success_guest_account_create_account_subject = {{store_name}} - Informatie over uw nieuwe account en wachtwoord
+module_checkout_success_guest_account_create_account_hello = Hallo, <br /> <br />
+Hieronder vindt u alle informatie over uw aanvraag. <br/> <br />
+module_checkout_success_guest_account_create_account_body = <br /> <br /> Hieronder vindt u uw nieuwe wachtwoord waarmee u verbinding kunt maken in {{store_name}} <br />
+Gebruikersnaam: {{gebruikersnaam}} <br />
+Wachtwoord: {{wachtwoord}} <br /> <br />
+Met vriendelijke groet, <br /> <br />
+<strong> {{store_name}} Team </strong> <br /> <br />
+<p> {{store_name_address}} <br /> <br />
+

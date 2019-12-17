@@ -1,0 +1,13 @@
+heading_title =
+text_no_products = Er zijn geen producten in deze categorie.
+text_no_products2 = Er zijn geen producten beschikbaar van deze fabrikant.
+text_number_of_products = Aantal producten:
+text_show = <strong> Weergeven: </strong>
+text_buy = Koop 1
+text_now = nu
+text_all_categories = Alle categorieën
+text_all_manufacturers = Alle fabrikanten
+
+min_qty_order_product = Aantal min:
+text_price =
+min_qty_order_product = Om een bestelling te bereiken, moet u voor elk product een minimale hoeveelheid in uw mandje hebben. Uw producthoeveelheid wordt automatisch bijgewerkt als uw bestelling lager is dan de toegestane hoeveelheid onder.

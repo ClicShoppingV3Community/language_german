@@ -1,0 +1,5 @@
+module_advanced_search_date_title = Wilt u een datumveld weergeven?
+module_advanced_search_date_description = Toon een datumveld waarmee de klant criteria kan invoegen
+
+modules_advanced_search_date_entry_date_from = Datum sinds
+modules_advanced_search_date_entry_date_to = Datum tot

@@ -1,0 +1,9 @@
+module_checkout_shipping_listing_title = Wilt u de mailinglijst tonen?
+module_checkout_shipping_listing_description = Verzendlijst weergeven
+module_checkout_shipping_table_heading_shipping_method = Verzendmethode
+module_checkout_shipping_text_choose_shipping_method = Selecteer een verzendmethode
+module_checkout_shipping_title_please_select = kiezen
+
+module_checkout_shipping_text_enter_shipping_information = Het is de enige beschikbare zending voor deze bestelling
+module_checkout_shipping_free_shipping_title = Gratis verzending
+module_checkout_shipping_free_shipping_description = Gratis verzending voor alle bestellingen van meer dan {{free_shipping_amount}}

@@ -1,0 +1,2 @@
+warning_install_directory_exists = De installatiemap bestaat op: {{install_path}}. Verwijder deze map om veiligheidsredenen.
+install_directory = Installatiemap

@@ -1,0 +1,9 @@
+
+navbar_title_1 = Mijn account
+navbar_title_2 = Productkennisgevingen
+
+heading_title = Product mededelingen
+
+my_notifications_title = Meldingen van mijn product
+
+success_notifications_updated = Uw kennisgevingen zijn succesvol bijgewerkt.

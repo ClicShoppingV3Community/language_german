@@ -1,0 +1,3 @@
+module_header_noscript_title = Wilt u noscript gebruiken?
+module_header_noscript_description = Toon een bericht Geen script voor de browser gebruikt dit script niet.
+module_header_noscript_text = <strong> Het lijkt erop dat JavaScript niet is geactiveerd in uw browser of in een advertentieblok. </strong> <br /> Wijzig uw instellingen om deze website te gebruiken. <br /> <a href = "www.enable-javascript.com/ "target ="_blank" "rel ="nofollow"> Klik hier </a> voor meer informatie.

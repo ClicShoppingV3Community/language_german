@@ -1,0 +1,6 @@
+
+navbar_title = Inhoud winkelwagen
+heading_title = Inhoud winkelwagen
+text_cart_empty = Uw winkelwagen is leeg!
+
+button_continue = Doorgaan

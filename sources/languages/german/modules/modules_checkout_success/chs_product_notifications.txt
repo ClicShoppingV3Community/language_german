@@ -1,0 +1,5 @@
+module_checkout_success_product_notifications_title = Productmeldingen
+module_checkout_success_product_notifications_description = Productmelding toevoegen aan de succesvolle betalingspagina
+module_checkout_success_product_notifications_text_notify_products = <strong> Houd mij op de hoogte van updates voor de producten die ik hieronder heb geselecteerd </strong>
+
+button_update = Update

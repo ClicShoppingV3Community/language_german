@@ -1,0 +1,44 @@
+table_heading_qty = Hoeveelheid
+table_heading_products_model = Model
+table_heading_products = Producten
+table_heading_tax = Belasting
+table_heading_total = Totaal
+table_heading_price_exclude_tax = Price (ex)
+table_heading_price_incuding_tax = Price (inc)
+table_heading_total_exclude_tax = Totaal (ex)
+table_heading_total_incuding_tax = Totaal (inc)
+
+entry_sold_to = VERKOCHT AAN:
+entry_ship_to = VERZENDEN naar:
+
+entry_payment_method = Betalingsmethode:
+entry_numero_invoice = Factuurnummer:
+entry_numero_order = Bestelnummer:
+entry_date_invoice = Factuurdatum:
+entry_date_order = Besteldatum:
+entry_invoice = INVOICE
+entry_order = BESTELLEN
+print_order_date = Datum:
+
+entry_http_site = Website:
+
+entry_phone = Telefoon:
+entry_email = Email:
+entry_customer_information = Klantinformatie
+entry_customer_number = Klantnummer:
+
+thank_you_customer = Bedankt voor het plaatsen van een bestelling bij ons. We hopen je snel weer te zien.
+
+reserve_propriete = Wettelijke eigenschappen: volgens de wetgeving behoudt {{store_name}} het eigendom van de geleverde goederen tot de volledige betaling van de prijs.
+reserve_propriete_next = Zie onze algemene voorwaarden op de website voor meer informatie
+reserve_propriete_next1 = op het volgende adres: {{sell_conditions_url}}
+
+entry_info_societe = {{shop_code_capital}} - {{shop_code_rcs}} - {{shop_code_ape}}
+entry_info_societe_next = {{tva_shop_intracom}}
+
+entry_info_societe1 = {{shop_code_capital}} - {{shop_code_rcs}} - {{shop_code_ape}}
+entry_info_societe_next1 {{tva_shop_provincial}} - {{tva_shop_federal}}
+
+shop_divers = {{shop_divers}}
+
+

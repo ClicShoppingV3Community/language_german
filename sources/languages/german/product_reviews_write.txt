@@ -1,0 +1,12 @@
+navbar_title = Opmerkingen
+navbar_title_1 = Schrijven
+
+heading_title ment = Wil je een reactie achterlaten?
+
+email_subject_customer = Uw reactie op {{store_name}}
+email_text_customer = Hallo, <br /> <br /> Bedankt voor het achterlaten van uw reactie. Wij controleren en valideren. Houd er rekening mee dat alle opmerkingen die niet in onze ethische tabel reageren, niet worden gevalideerd. <br /> <br />. Met vriendelijke groet, Klantenservice.
+
+email_subject = Nieuwe klantcommentaar op {{store_name}}
+email_text = Een klant heeft een nieuwe opmerking over een product geplaatst. U kunt uw administratie raadplegen om deze opmerking te valideren of niet
+
+message_customer = Dank u, uw reactie is snel genomen en online als deze voldoet aan onze ethische statuten

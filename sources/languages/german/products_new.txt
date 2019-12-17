@@ -1,0 +1,8 @@
+navbar_title = Nieuws
+heading_title = Nieuws
+
+text_date_added = Datum toegevoegd:
+text_manufacturer = Fabrikant:
+text_price = Prijs:
+text_product_options = Voorgestelde opties:
+text_no_products = Er zijn geen producten in deze categorie.

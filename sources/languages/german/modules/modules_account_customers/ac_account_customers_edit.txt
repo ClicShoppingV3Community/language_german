@@ -1,0 +1,53 @@
+navbar_title_1 = Bewerken
+navbar_title_2 = Bewerken
+
+module_account_customers_edit_title = Wilt u toestaan ​​dat de accountinformatie wordt gewijzigd?
+module_account_customers_edit_description = Toon een formulier om accountinformatie te bewerken / wijzigen
+
+module_account_customers_edit_heading_title = Accountinformatie
+
+module_account_customers_edit_title_account = Mijn account
+module_account_customers_edit_title_company = Bedrijfsinformatie
+
+form_required = * Vereiste informatie
+
+man = man
+vrouwelijk = vrouwelijk
+male_address = Mr.
+female_address = Ms.
+
+entry_gender = Geslacht:
+entry_gender_error = Selecteer uw geslacht.
+entry_gender_error_pro = Selecteer uw geslacht.
+entry_gender_text = *
+
+entry_first_name = Naam:
+entry_first_name_text = *
+entry_last_name = Achternaam:
+entry_last_name_text = *
+entry_date_of_birth = Geboortedatum:
+entry_date_of_birth_text = * (bijvoorbeeld 05/21/1970)
+entry_email_address = E-mailadres:
+entry_email_address_error = Uw e-mailadres is niet correct.
+entry_telephone_number = Telefoonnummer:
+entry_telefoon_number_text = *
+entry_cellular_phone_number = Mobiel nummer:
+entry_cellular_phone_number_text =
+entry_fax_number = Faxnummer:
+entry_fax_number_text =
+entry_company = Nombre de la empresa:
+entry_company_text = *
+entry_company_text_pro = *
+entry_siret = N ° de registro:
+entry_siret_text = *
+entry_siret_exemple = (ej .: Código RCS para la empresa francesa)
+entry_code_ape = Número de Nomenclatur:
+entry_code_ape_text = *
+entry_code_ape_exemple = (ej: Código APE para la empresa espanola)
+entry_tva_intracom = N° of VAT intracom :
+entry_tva_intracom_text = * Seleccione el país primero.
+entry_country = País:
+entry_country_text = *
+
+button_continue = Continuar
+button_back = Atrás

@@ -1,0 +1,11 @@
+module_products_infoScore = Wilt u meningen van klanten inschakelen?
+module_products_infoScore_description = Toon klantrecensies
+
+module_products_infoScore_allScore = Zie alle reacties
+module_products_infoiter_write_review = Schrijf een opmerking
+rubriek_rewiews = Opmerkingen van klanten
+text_review_date_added = Datum toegevoegd:
+text_review_by = {{customer_name}}
+button_allScore = Toon alle beoordelingen
+button_write_review = Schrijf een recensie
+text_info_noScore = Er zijn momenteel geen reacties op dit product. Klik op de schrijfknop om een nieuwe recensie te maken

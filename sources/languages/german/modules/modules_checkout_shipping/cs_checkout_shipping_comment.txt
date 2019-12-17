@@ -1,0 +1,4 @@
+module_checkout_shipping_comment_title = Wilt u een veldopmerking weergeven zodat de client een opmerking kan toestaan?
+module_checkout_shipping_comment_description = Toon een veldopmerking zodat de klant een reactie kan toestaan
+module_checkout_shipping_comment_table_heading_comments = Voeg commentaar toe op uw bestelling
+module_checkout_shipping_comment_text = Voer uw reactie in

@@ -1,0 +1,5 @@
+navbar_title_1 = Succes
+
+text_success = Uw aanvraag is succesvol verzonden naar onze klantenservice {{store_name}}
+modules_contact_us_success_text_success = Bedankt, we zullen uw verzoek zorgvuldig overwegen en de informatie binnenkort retourneren.
+

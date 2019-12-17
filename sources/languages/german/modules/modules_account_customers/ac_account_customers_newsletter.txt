@@ -1,0 +1,9 @@
+
+module_account_customers_newsletter_title = Wilt u de klant toestaan zich in te schrijven voor de nieuwsbrief?
+module_account_customers_newsletter_description = Toon een formulier waarmee de klant zich kan in- of uitschrijven voor de nieuwsbrief
+
+my_newsletter_title = Mijn nieuwsbrief
+module_account_customers_newsletter = Algemeen bulletin
+module_account_customers_newsletters_dscription = Inclusief winkelnieuws, nieuwe producten, speciale aanbiedingen en andere promotionele aankondigingen.
+
+button_continue = volgeling

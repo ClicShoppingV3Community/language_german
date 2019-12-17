@@ -1,0 +1,5 @@
+module_advanced_search_price_title = Wilt u een prijsveld weergeven?
+module_advanced_search_price_description = Toon een prijsveld waarmee de klant criteria kan invoegen
+
+modules_advanced_search_price_entry_price_from = Prijs vanaf
+modules_advanced_search_price_entry_price_to = Prijs tegen

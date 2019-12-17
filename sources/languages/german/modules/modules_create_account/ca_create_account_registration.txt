@@ -1,0 +1,38 @@
+module_create_account_registration_title = Wilt u het registratieformulier voor het maken van een account weergeven?
+module_create_account_registration_description = Toon het registratieformulier voor het aanmaken van een account
+
+entry_password_error_not_matching = Wachtwoordbevestiging moet hetzelfde zijn in uw wachtwoord.
+
+form_required = Verplicht
+
+category_company = Bedrijfsgegevens
+category_personal = Uw persoonlijke gegevens
+category_address = Uw adres
+category_contact = Uw contactgegevens
+category_options = Opties
+category_password = Uw wachtwoord
+
+entry_first_name = Naam
+entry_first_name_text = *
+
+entry_last_name = Achternaam
+entry_last_name_text = *
+
+entry_date_of_birth = Geboortedatum
+entry_date_of_birth_text = * Formaat: JJ / MM / JJJJ
+
+entry_email_address = Email
+entry_email_address_text = *
+entry_email_address_confirmation = Bevestiging per e-mail
+
+entry_newsletter = Nieuwsbrief
+entry_newsletter_text =
+
+entry_password = Wachtwoord
+entry_password_text = *
+
+entry_password_confirmation = Wachtwoordbevestiging
+entry_password_confirmation_text = * Wachtwoordbevestiging
+
+text_create_account_dgrp = We moeten uw e-mailadres gebruiken om uw account aan te maken en u toegang te geven. U kunt deze informatie op elk moment wijzigen.
+text_create_account_dob_dgrp = Uw geboortedatum helpt ons uw leeftijd te identificeren en stelt u in staat om een ​​bestelling te plaatsen. We tonen uw geboortedatum niet zonder uw uitdrukkelijke toestemming

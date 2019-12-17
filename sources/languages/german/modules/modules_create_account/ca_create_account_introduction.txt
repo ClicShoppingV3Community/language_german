@@ -1,0 +1,7 @@
+module_create_account_introduction_title = Wilt u een inleiding tonen voor het maken van een account?
+module_create_account_introduction_description = Toon een introductie voor het aanmaken van een account
+
+module_create_account_introduction_text_origin_login = Een account aanmaken is heel eenvoudig! <br /> <br /> Alle informatie die u verstrekt, blijft strikt privé en uiteraard voorbehouden. Uw informatie zal nooit worden doorgegeven aan derden of voor niet-commerciële acties of verklaringen {{store_name}} en u hebt deze geautoriseerd. Al deze informatie wordt gebruikt voor {{store_name}} die deze volgen en om u beter van dienst te zijn ... <br /> <br /> U kunt de door u verstrekte informatie op elk gewenst moment bekijken, bijwerken of verwijderen. U hoeft zich alleen maar te identificeren op onze website en op de link "Mijn account" te klikken. U behoudt op elk moment de volledige controle over de informatie die u ons hebt verstrekt ... </ font> <br /> <br /> {{store_name}} respecteert de bestaande statuten Informatie en vrijheid.
+module_create_account_introduction_text_b2b = <span style="text-decoration: underline;"> Opmerking </span>: klik op de knop om een ​​professioneel klantenaccount te openen
+
+button_continue = Doorgaan

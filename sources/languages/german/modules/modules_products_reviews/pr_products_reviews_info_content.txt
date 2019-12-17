@@ -1,0 +1,8 @@
+modules_productscore_info_content_title = Leer comentario: ¿permite que el cliente lea los comentarios?
+modules_productscore_info_content_description = Toegestane clientèle leer los comentarios
+
+modules_productsOORD_info_content_text_review_date_added = {{date_added}}
+modules_productsOORD_info_content_text_review_text_review_by = {{customer_name}}
+
+modules_productscore_info_content_text_no_review = sin revisión
+modules_productsOORD_info_content_text_no_review = Eliminar su comentario

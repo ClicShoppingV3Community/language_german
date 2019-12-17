@@ -1,0 +1,4 @@
+module_products_favorites_title = Wilt u de titel van favorieten tonen?
+module_products_favorites_title_description = Toon favoriete titel
+
+text_heading_title = Favoriete producten

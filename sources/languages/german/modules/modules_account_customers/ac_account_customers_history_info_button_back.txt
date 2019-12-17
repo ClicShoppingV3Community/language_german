@@ -1,0 +1,2 @@
+module_account_customers_history_info_button_back_title = Geschiedenisinformatie: Wilt u de knop Terug weergeven?
+module_account_customers_history_info_button_back_description = Toon de terug-knop

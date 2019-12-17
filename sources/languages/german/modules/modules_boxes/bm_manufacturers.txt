@@ -1,0 +1,5 @@
+module_boxes_manufacturers_title = Fabricantes
+module_boxes_manufacturers_description = Meest voorkomende lijst van los fabricantes
+module_boxes_manufacturers_title = Fabricantes
+module_boxes_manufacturers_description = Toon merkinformatie op de productinformatiepagina
+pull_down_default = Selecteer alstublieft

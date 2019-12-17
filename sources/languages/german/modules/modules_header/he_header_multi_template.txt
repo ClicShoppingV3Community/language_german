@@ -1,0 +1,34 @@
+modules_header_multi_template_title = Wilt u dit systeem met meerdere sjablonen in de kop inschakelen?
+modules_header_multi_template_description = Voeg een systeem met meerdere sjablonen toe aan de header store
+
+modules_header_multi_template_template_categories = Categorieën
+modules_header_multi_template_template_toggle_nav = Catégories
+
+modules_header_multi_template_site_settings = Opties
+modules_header_multi_template_account_logged_in = Inloggen
+modules_header_multi_template_cart_no_contents = Geen product
+
+modules_header_multi_template_account_logoff = Uitloggen
+modules_header_multi_template_account_login = Inloggen
+modules_header_multi_template_account_register = Registreren
+
+modules_header_multi_template_create_account = Maak een account aan
+modules_header_multi_template_my_account = Mijn account
+modules_header_multi_template_account_history = Mijn bestelgeschiedenis
+modules_header_multi_template_account_address_book = Mijn boekadres
+
+modules_header_multi_template_account_password = Wachtwoord
+modules_header_multi_template_title_advanced_search = Geavanceerd zoeken
+
+modules_header_multi_template_header_search = Zoeken
+modules_header_multi_template_title_contact_us = Neem contact met ons op
+modules_header_multi_template_header_email_address = Email
+modules_header_multi_template_password_forgotten = wachtwoord vergeten
+
+modules_header_multi_template_shopping_cart_no_content = geen items
+modules_header_multi_template_shopping_cart_product = artikel (en)
+modules_header_multi_template_shopping_cart_view_cart = Bekijk winkelwagen
+modules_header_multi_template_shopping_cart_checkout = Betalen
+modules_header_multi_template_shopping_cart_total_content = Totaal
+
+template_does_not_exist = Geen sjabloon

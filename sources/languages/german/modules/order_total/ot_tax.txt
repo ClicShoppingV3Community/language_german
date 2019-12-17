@@ -1,0 +1,2 @@
+module_order_total_tax_title = Belastingen
+module_order_total_tax_description = Belastingen bestellen

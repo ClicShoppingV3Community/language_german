@@ -1,0 +1,18 @@
+modules_sitemap_summary_title = Wilt u een samenvatting van de sitemap weergeven?
+modules_sitemap_summary_description = Voeg een samenvatting van de sitemap toe
+
+sitemap_summary_text_home_page = Startpagina
+sitemap_summary_text_newsletter = Abonnement op nieuwsbrief
+sitemap_summary_text_contact = Neem contact met ons op
+
+sitemap_summary_text_my_account = Mijn account
+sitemap_summary_text_create_account = Maak een account aan
+sitemap_summary_text_password = Wachtwoord vergeten
+
+sitemap_summary_text_products_specials = Zie speciale aanbiedingen
+sitemap_summary_text_products_favorites = Bekijk favorieten
+sitemap_summary_text_products_whats_new = Zie nieuwe producten
+sitemap_summary_text_products_featured = Zie aanbevolen producten
+
+sitemap_summary_text_search_advanced_search = Zoeken naar een product
+sitemap_summary_text_blog = Zie de blog

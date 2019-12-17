@@ -1,0 +1,40 @@
+email_text_subject = Bestelling verwerken
+email_text_order_intro = Hallo,
+Zoek de artikelen met betrekking tot uw bestelling op {{store_name}}
+Wij danken u voor uw vertrouwen en doen ons best om te proberen uw bestelling te verzenden.
+Bestelnummer:
+email_text_invoice_url = Specifieke volgorde:
+email_text_date_ordered = Besteldatum:
+email_text_products = Producten
+email_text_subtotal = Subtotaal:
+email_text_tax = Belastingen:
+email_text_shipping = Verzendkosten:
+email_text_total = Totaal:
+email_text_delivery_address = Bezorgadres
+email_text_billing_address = Factuuradres
+email_text_payment_method = Betalingsmethode:
+entry_text_order_number = Bestelnummer:
+
+email_separator = ------------------------------------------------ ------
+text_email_via = door
+
+email_text_footer = Uw bestelling wordt voorbereid en we zullen deze spoedig naar u verzenden. Druk deze e-mail af waarin wordt bevestigd dat u de bestelling goed moet opnemen op {{store_name}} of voor eventuele volgende correspondentie. <br /> <br /> Ontvang, beste klant, onze oprechte groeten. <br />
+Met vriendelijke groet, <br /> <strong> {{store_name}} Team </strong> <br />
+<p> {{store_name_address}} <br />
+
+
+email_text_subject_stock = Productvoorraadmelding in {{store_name}}
+
+email_reorder_level_text_stock = Hallo, '. "\ n \ n". 'U heeft een waarschuwingsmail ontvangen over uw waarschuwingsvoorraad (algemene configuratie) voor dit product. Deze waarschuwingsvoorraad is de alrtvoorraad waarin een of meer processen worden bereikt. '. "\ n". 'Er zijn de verschillende kenmerken van het product:'. "\ n". '
+email_text_stock = Hallo, '. "\ n \ n". 'U ontvangt een waarschuwing over het niet op voorraad zijn van een van uw producten. Uw product is niet beschikbaar in uw winkel. U kunt het echter opnieuw activeren zonder uw voorraad te wijzigen. De knop Toevoegen wordt vervangen door de volgende uitverkochte knop. '. "\ n". 'Er zijn kenmerken van producten die niet op voorraad zijn:'. "\ n". '
+email_text_subject_alert_stock = Voorraad alert op specifiek product in {{store_name}}
+email_reorder_level_text_alert_stock = Hallo, '. "\ n \ n". 'U ontvangt een waarschuwing over de waarschuwingsvoorraad (gedefinieerd in het product) met betrekking tot een product. Uw product is beschikbaar in uw winkel. '. "\ n". 'Er zijn kenmerken van producten die niet op voorraad zijn:'. "\ n". '
+email_text_product_alert_stock = Voorraad in dit product:
+
+
+email_text_id_product = Productidentificatie:
+email_text_model = Model:
+email_text_products_name = Productnaam:
+email_text_product_url = Product-URL:
+email_text_product_stock = Voorraad van nieuwe producten:
+email_text_date_alert = Waarschuwingsdatum

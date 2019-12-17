@@ -1,0 +1,9 @@
+
+navbar_title = Aanbevolen producten
+heading_title = Aanbevolen producten
+
+text_date_added = Datum toegevoegd:
+text_manufacturer = Merken:
+text_price = Prijs:
+text_product_options = voorgestelde opties:
+text_no_products = Er zijn momenteel geen producten

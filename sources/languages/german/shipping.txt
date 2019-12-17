@@ -1,0 +1,4 @@
+navbar_title = Verzenden en retourneren
+heading_titel = Verzenden en retourneren
+
+text_information = Plaats hier informatie over Verzenden en Retourneren

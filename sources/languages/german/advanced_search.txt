@@ -1,0 +1,25 @@
+
+heading_title = Geavanceerd zoeken
+
+navbar_title = Zoeken
+navbar_title_1 = Geavanceerd zoeken
+navbar_title_2 = Zoekresultaten
+
+heading_title_1 = Geavanceerd zoeken
+titel_title_2 = Producten die voldoen aan de zoekcriteria
+
+rubriek_search_criteria = Zoekcriteria
+
+text_no_products = Er zijn geen producten die voldoen aan de zoekcriteria.
+
+error_at_least_one_input = U moet minstens één zoekcriterium invoeren.
+error_invalid_from_date = Eerste registratiedatum is niet geldig
+error_invalid_to_date = De definitieve inschrijvingsdatum is ongeldig
+error_to_date_less_than_from_date = Definitieve registratiedatum moet groter zijn dan de initiële registratiedatum
+error_price_from_must_be_num = De prijs vanaf moet numeriek zijn
+error_price_to_must_be_num = De prijs omhoog moet numeriek zijn
+error_price_to_less_than_price_from = Prijs tot moet groter zijn dan of gelijk zijn aan Prijs vanaf
+error_invalid_keywords = Onjuiste zoekwoorden
+dob_format_string = dd / mm / jjjj
+button_search = Zoeken
+

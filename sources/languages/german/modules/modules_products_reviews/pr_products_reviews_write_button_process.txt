@@ -1,0 +1,5 @@
+modules_productsOORD_write_button_process_title = Schrijf commentaar: Wilt u de klant toestaan deze commentaar te publiceren?
+modules_productsOORD_write_button_process_description = Sta klant toe deze opmerking te plaatsen
+
+button_continue = Doorgaan
+button_write = Terug

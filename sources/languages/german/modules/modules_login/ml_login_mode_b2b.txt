@@ -1,0 +1,7 @@
+module_login_mode_b2b = Wilt u de B2B-knoppen voor klantabonnementen weergeven?
+module_login_mode_b2b_description = Toon B2B-knoppen voor klantabonnementen <br /> Opmerking: deze modus is meestal gerelateerd aan de algemene configuratie: B2B-clientbeheer / configuratie
+
+rubriek_title_b2b = Abonneer u en open een account
+
+text_intro_b2b =
+button_retailers = Detailhandelaren / professionals

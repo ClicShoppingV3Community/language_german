@@ -1,0 +1,11 @@
+module_products_info_price = Wilt u de productprijsknop inschakelen?
+module_products_info_price_description = Toon de productprijsknop
+
+text_price_info =
+text_products_info_price_by_weight = Prijs per kg:
+button_cart = Winkelwagen toevoegen
+customer_quantity = hoeveelheid
+
+min_qty_order_product = Aantal min:
+products_not_sell = onverkochte producten
+button_continue = doorgaan

@@ -1,0 +1,44 @@
+module_checkout_success_thank_you_title = Wilt u deze module inschakelen? Bedankt bericht?
+module_checkout_success_thank_you_description = Bedankt bericht weergeven?
+
+module_checkout_success_text_thanks_for_shopping = Bedankt voor uw vertrouwen en voor het winkelen bij {{store_name}}. <br /> We hopen je snel te zien!
+module_checkout_success_text_success = <strong> Uw bestelling is succesvol overwogen. Bijgevoegd vindt u aanvullende informatie </strong>
+
+module_checkout_success_text_order_history = Bestelgeschiedenis
+module_checkout_success_text_contact = Neem contact met ons op
+module_checkout_success_text_account = Mijn account
+
+module_checkout_success_text_see_orders =
+<p class="blockquote">
+  <h3> uw bestelling </h3>
+  <br /> <br />
+  <li> u kunt toegang krijgen tot uw account via de pagina {{my_account}}. </ Li>
+  <li> u kunt toegang krijgen tot uw bestelgeschiedenis via de pagina <strong> {{account_history}} </strong>. <br /> U kunt uw bestelling of factuur afdrukken door de details van uw bestelling te verifiëren. </ Li>
+  <li> <strong> Als u per cheque heeft betaald </strong>, vragen we u om een ​​kopie van uw bestelling of de bevestigingsmail die u hebt ontvangen te sturen. Na ontvangst zullen we uw aanvraag verwerken.
+  <br /> Adres Als u per cheque heeft betaald {{store_name}}: {{store_name_address}} </li>
+</p>
+
+module_checkout_success_text_contact_store_owner =
+<p class="blockquote">
+  <h3> ontvang uw pakket </h3>
+  <br /> <br />
+  <li> Om toekomstige geschillen te voorkomen, vragen wij u om de inhoud van uw pakket te verifiëren in aanwezigheid van de bezorger en onder alle omstandigheden een pakket in slechte staat, gerestaureerd, omgeven door lijm, te licht of dat tijdens het transport zou zijn geopend, te accepteren. zonder eerst de inhoud te controleren. </ Li>
+  <li> In het geval dat uw pakket is omgeven door een zwarte film, vragen we u om de film in aanwezigheid van de dealer te verwijderen om de status van uw pakket effectief te verifiëren voordat u het accepteert. </ Li>
+  <li> zie voor overige informatie onze algemene voorwaarden op de leveringsbon </li>
+</p>
+  <div class="hr"> </div>
+<p class = "blockquote">
+  <h3> Hoe kunt u contact met ons opnemen </h3>
+  <br /> <br />
+  <li> als u een opdracht uitvoert: bewerk uw bestelling en klik op Ondersteuning. {{account_history}} </li>
+  <li> Als het een specifiek verzoek of specifieke informatie betreft, vult u dit formulier in: {{contact}} </li>
+</p>
+
+module_checkout_success_create_account_success =
+<p clas ="blockquote">
+<h3> Uw bestelling </h3>
+<br /> <br />
+U heeft ervoor gekozen om te betalen door een gastaccount aan te maken. U hebt geen toegang tot uw accountgeschiedenis. <br /> Alleen via de e-mail kunt u de status van uw bestelling melden. <br /> <br />
+<li> <strong> Als u per cheque heeft betaald </strong>, vragen we u ons een kopie van uw bestelling of de bevestigingsmail te sturen die u heeft ontvangen. Na ontvangst zullen we uw aanvraag verwerken.
+<br /> <br /> Adres van {{store_name}}. : {{store_name_address}} </li> <br /> <br />
+</p>

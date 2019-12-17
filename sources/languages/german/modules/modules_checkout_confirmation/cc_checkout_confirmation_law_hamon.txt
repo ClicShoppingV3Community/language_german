@@ -1,0 +1,7 @@
+module_checkout_confirmation_law_hamon_title = Wilt u de Hamon-wet laten zien in het bestelproces?
+module_checkout_confirmation_law_hamon_description = toont de Hamon-wet in het bestelproces
+
+module_checkout_confirmation_law_hamon_text_error_agagement = Foutovereenkomst: vernieuw de pagina (F5) en vink het vakje aan om door te gaan
+module_checkout_confirmation_law_hamon_text_conditions = <strong> Door dit selectievakje te valideren en op de bevestigde knop te drukken, ga ik ermee akkoord de bestelling van de bestelde producten te bevestigen </strong>
+module_checkout_confirmation_law_hamon_text_title = Betalingsovereenkomst
+form_required_information = Verplicht

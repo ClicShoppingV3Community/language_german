@@ -1,0 +1,2 @@
+warning_download_directory_non_existent = Privémap van downloadbare producten bestaat niet: {{download_path}} Downloadbare producten zullen niet werken totdat deze map geldig is.
+download_directory = Downloadmap

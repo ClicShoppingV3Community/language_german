@@ -1,0 +1,5 @@
+module_boxes_manufacturer_info_title = Fabrikant
+module_boxes_manufacturer_info_description = Toon fabrikantinformatie op de productinformatiepagina
+module_boxes_manufacturer_info_box_title = Fabrikant
+module_boxes_manufacturer_info_box_other_products = Andere producten
+module_boxes_manufacturer_info_box_homepage = Startpagina

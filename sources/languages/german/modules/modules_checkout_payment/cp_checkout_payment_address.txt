@@ -1,0 +1,8 @@
+module_checkout_payment_address_title = Wilt u het factuuradres tonen?
+module_checkout_payment_address_description = Factuuradres weergeven
+module_checkout_payment_address_title_payment_address = Factuuradres
+module_checkout_payment_address_text_choose_payment_destination = Selecteer de gewenste betaalmethode om in deze volgorde te gebruiken.
+
+module_checkout_payment_address_button_change_address = Wijzig uw adres
+button_modify = Wijzigen
+

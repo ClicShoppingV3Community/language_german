@@ -1,0 +1,2 @@
+module_header_tags_breadcrumb_title = Wilt u Breadcrumb metadata weergeven?
+module_header_tags_breadcrump_description = Toon Breadcrumb metadata

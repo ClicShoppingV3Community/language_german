@@ -1,0 +1,4 @@
+module_checkout_confirmation_order_total_title = Wilt u de totale orderdetails tonen?
+module_checkout_confirmation_order_total_description = Toon totale orderdetails
+
+module_checkout_confirmation_order_total_heading_details = Details

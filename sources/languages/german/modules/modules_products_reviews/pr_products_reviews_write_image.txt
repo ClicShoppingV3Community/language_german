@@ -1,0 +1,4 @@
+modules_productsrecensie_write_image_title = Schrijf commentaar: Wilt u de productafbeelding tonen?
+modules_productsOORD_write_image_description = Productafbeelding weergeven
+
+text_price =

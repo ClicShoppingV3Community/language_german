@@ -1,0 +1,4 @@
+module_checkout_payment_comment_title = Wilt u de klant toestaan een opmerking over deze bestelling in te voegen?
+module_checkout_payment_comment_description = Laat de klant een opmerking bij deze bestelling plaatsen
+module_checkout_payment_comment_table_heading_comments = Voeg opmerkingen toe over uw bestelling
+module_checkout_payment_comment_text = Voer uw opmerking in

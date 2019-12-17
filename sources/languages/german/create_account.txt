@@ -1,0 +1,23 @@
+navbar_title = Maak een account aan
+
+heading_title_create_account = Mijn accountgegevens
+
+email_subject = Welkom bij {{store_name}}
+email_greet_mr = Geachte heer {{achternaam}},
+email_greet_ms = Beste mevrouw {{achternaam}},
+
+admin_email_subject = Nieuw klantrecord in {{store_name}}
+admin_email_welcome = Hallo <br /> <br />
+
+admin_email_text = De nieuwe client (B2C-modus) is geregistreerd, onder de gebruikersgegevens: <br />
+naam: {{customer_name}} <br />
+Achternaam: {{customer_firstame}} <br />
+bedrijf: {{customer_company}} <br />
+e-mail: {{customer_mail}} <br />
+
+
+email_network = Volg ons in realtime op: <br />
+email_twitter = http://www.twitter.com/
+email_facebook = http://www.facebook.com/
+
+error cialis_recorder = Fout: er is al een zoekopdracht verzonden. Probeer het over {{module cialis_recorder_create_account_email_minutes}} minuten opnieuw.

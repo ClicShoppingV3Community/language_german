@@ -1,0 +1,4 @@
+module_checkout_shipping_button_process_title = Wilt u de procesknop weergeven zodat de klant deze bestelling kan voortzetten?
+module_checkout_shipping_button_process_description = Toon de procesknop om de klant toe te staan deze bestelling voort te zetten
+button_continue = Doorgaan
+

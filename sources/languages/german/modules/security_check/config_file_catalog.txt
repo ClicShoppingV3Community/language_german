@@ -1,0 +1,2 @@
+warning_config_file_writeable = Ik kan schrijven naar het configuratiebestand: {{configure_file_path}}. Dit is een potentieel beveiligingsrisico: configureer de juiste gebruikersrechten in dit bestand.
+config_file_catalog = Configuratiecatalogus

@@ -1,0 +1,10 @@
+modules_productsOORD_write_comment_title = Schrijf opmerking: Wilt u een klant toestaan een opmerking te schrijven?
+modules_productsOORD_write_comment_description = Laat een klant een opmerking schrijven
+
+modules_productsOORD_write_comment_sub_title_from = Van:
+modules_productsOORD_write_min_caracters = Minimale tekens geaccepteerd in de reactie:
+modules_productsiterre_write_comment_sub_title_from_sub_title_review = Opmerkingen:
+modules_productscore_write_comment_sub_title_from_sub_title_review_text_no_html = OPMERKING: HTML is niet vertaald!
+modules_productscore_write_comment_customer_group = Als u een opmerking aanbiedt, is deze opmerking alleen beschikbaar voor klantgroepen. U kunt een mening delen over het product en de perceptie die uw klanten ervan hebben.
+
+modules_productsOORD_write_error = Fout bij het maken van commentaar

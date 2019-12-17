@@ -1,0 +1,5 @@
+module_shopping_cart_order_button_process_title = Wilt u de bestelknop weergeven zodat de klant door kan gaan met deze bestelling?
+module_shopping_cart_show_total_description = Knop Bestelling weergeven zodat de klant deze bestelling kan voortzetten
+
+button_continue = Doorgaan
+button_order = Bestellen

@@ -1,0 +1,9 @@
+
+navbar_title_1 = Bestelling plaatsen
+navbar_title_2 = Betalingswijze
+
+head_title_Payment = Betalingsinformatie
+
+text_conditions_description = Accepteer de betalingsvoorwaarden
+text_conditions_confirm = Bevestig uw betalingsvoorwaarden overeenkomst
+entry_discount_coupon = Coupon

@@ -1,0 +1,4 @@
+navbar_title_1 = Afrekenen
+navbar_title_1 = Bevestiging
+
+heading_title_Confirmatie = Ik ben klaar om te kopen!

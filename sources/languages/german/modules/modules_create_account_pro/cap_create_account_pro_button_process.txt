@@ -1,0 +1,4 @@
+module_create_account_pro_button_process_title = Wilt u de procesknop weergeven op het formulier Professional account aanmaken?
+module_create_account_pro_button_process_description = toon de procesknop (belangrijk om true te laten)
+
+button_continue = Doorgaan

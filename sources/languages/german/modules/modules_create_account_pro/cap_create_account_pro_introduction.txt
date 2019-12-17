@@ -1,0 +1,7 @@
+module_create_account_pro_introduction_title = Wilt u een inleiding tonen voor het aanmaken van een professioneel account?
+module_create_account_pro_introduction_description = Toon een introductie voor het professioneel aanmaken van een account
+
+module_create_account_pro_introduction_text_origin_login = <p style="color: #000000;"> Het openen van een professionele account is gratis als het een bedrijf is! <br /> <br /> U kunt profiteren van alle voordelen die wij voorstellen. Alle informatie is voorwaardelijk en gereserveerd. We bewaren al uw informatie en verkopen onze informatie niet in verschillende marketingbedrijven. </p> <br /> <br />
+module_create_account_pro_introduction_text_b2b = <span style = "text-decoration: underline;"> Opmerking </span>: klik op de knop om een normaal klantenaccount te openen
+
+button_continue = Doorgaan

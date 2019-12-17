@@ -1,0 +1,6 @@
+module_advanced_search_manufacturers_title = Wilt u een zoekveld van de fabrikant weergeven?
+module_advanced_search_manufacturers_description = Toon een zoekveld waarmee de klant criteria kan invoeren
+
+modules_advanced_search_manufacturers_entry_manufacturers = Fabrikanten:
+modules_advanced_search_manufacturers_text_all_manufacturers = Alle fabrikanten
+text_all_manufacturers = Alle fabrikanten

@@ -1,0 +1,2 @@
+module cialis_recorder_contact_us_title = Neem contact met ons op
+module cialis_recorder_contact_us_description = Registratie van het gebruik van de functie Neem contact met ons op.

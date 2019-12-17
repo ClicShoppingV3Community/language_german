@@ -1,0 +1,2 @@
+module_checkout_success_redirect_old_order_title = Wilt u de client na een vertraging naar de indexpagina doorsturen?
+module_checkout_success_redirect_old_order_description = Stuur de client na een vertraging door naar de indexpagina

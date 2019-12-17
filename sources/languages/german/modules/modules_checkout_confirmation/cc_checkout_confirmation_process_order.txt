@@ -1,0 +1,4 @@
+module_checkout_confirmation_process_order_title = Wilt u de knop procesorder weergeven om de klant in staat te stellen deze bestelling te valideren?
+module_checkout_confirmation_process_order_description = toon de knop procesorder zodat de klant deze bestelling kan valideren
+
+module_checkout_confirmation_process_order_button_pay = Bevestig de bestelling met betaling

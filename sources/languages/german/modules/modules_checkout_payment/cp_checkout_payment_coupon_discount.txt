@@ -1,0 +1,5 @@
+module_checkout_payment_coupon_discount_title = Wilt u de mogelijkheid weergeven voor de klant om een kortingsboncode in te voeren?
+module_checkout_payment_coupon_discount_description = Verbied de mogelijkheid voor de klant om een remise couponcode in te voeren
+module_checkout_payment_coupon_discount_heading_coupon = Voer uw kortingsbon in
+module_checkout_payment_coupon_discount_text_coupon = Met de kortingsbon kunt u korting krijgen op uw bestelling. Afhankelijk van de bestelde artikelen kan de kortingsbon worden toegepast of niet.
+module_checkout_payment_coupon_discount_entry_discount_coupon = Coupon code

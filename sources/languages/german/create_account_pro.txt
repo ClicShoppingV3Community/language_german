@@ -1,0 +1,36 @@
+
+navbar_title = Maak een professioneel account
+
+heading_title_create_pro = Maak een professioneel account
+
+email_subject = Verzoek klantaccount opening op {{store_name}}
+
+email_subject = Welkom bij {{store_name}}
+email_greet_mr = Geachte heer {{achternaam}},
+email_greet_ms = Geachte mevrouw {{achternaam}},
+
+email_welcome = Wij danken u voor het vertrouwen dat u ons hebt getuigd door u als nieuwe klant op de site {{store_name}} te registreren.
+We hebben rekening gehouden met uw aanvraag voor het openen van een kantooraccount in de buurt van ons netwerk. <br />
+U ontvangt een e-mail met de aanmaak van uw account, na de validatie van uw verzoek door onze serviceklanten, met alle informatie waarmee u verbinding kunt maken en uw aankopen kunt doen op {{store_name}} <br /> <br />
+Onder een bevoorrechte klant kunt u profiteren van uitzonderlijke prijzen voor al onze artikelen door verbinding te maken met uw {{store_name}} space-client. <br />
+Aarzel niet om contact op te nemen met onze ondersteuning voor hulp bij onze services: {{store_owner_email_address}}
+
+admin_email_subject = Nieuw klantrecord in {{store_name}} - Maak een Pro-account
+admin_email_welcome = hallo, '. "\ n \ n". '
+admin_email_text = De nieuwe client (B2B-modus) is geregistreerd, onder de gebruikersgegevens: <br />
+naam: {{customer_name}} <br />
+Achternaam: {{customer_firstame}} <br />
+bedrijf: {{customer_company}} <br />
+e-mail: {{customer_mail}} <br />
+
+email_text_coupon = {{store_name}} biedt u graag een kortingsbon aan die u op elk gewenst moment in de winkel kunt gebruiken. <br /> <br /> Het couponnummer is: <strong>
+
+email_network = Volg ons in realtime op: <br />
+email_twitter = http://www.twitter.com/
+email_facebook = http://www.facebook.com/
+
+entry_website_text_pro = *
+entry_company_website = Website:
+
+error cialis_recorder = Fout: er is al een zoekopdracht verzonden. Probeer het opnieuw over {{module cialis_recorder_create_account_pro_email_minutes}} minuten.
+entry_county_error_pro = Fout: voer een land of staat in

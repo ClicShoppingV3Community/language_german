@@ -1,0 +1,10 @@
+
+navbar_title = Aanbiedingen
+heading_title = Speciale aanbiedingen!
+
+text_no_products = Er zijn momenteel geen speciale aanbiedingen
+
+text_date_added = Datum toegevoegd:
+text_manufacturer = Merken:
+text_price = Prijs:
+text_product_options = voorgestelde opties:

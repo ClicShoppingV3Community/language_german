@@ -1,0 +1,4 @@
+modules_contact_us_page_manager_title = Wilt u beschrijvende informatie inschakelen in het contactformulier?
+modules_contact_us_page_manager_description = Voeg de informatiepagina toe in het contactformulier
+
+

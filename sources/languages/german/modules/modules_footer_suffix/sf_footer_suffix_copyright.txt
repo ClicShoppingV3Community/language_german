@@ -1,0 +1,5 @@
+modules_footer_suffix_copyright_title = Wilt u het copyright van de voettekst weergeven?
+modules_footer_suffix_copyright_description = Voeg een copyright toe in de voettekst van de winkel
+modules_footer_suffix_trademark_text = Registered® en Trademark ™ door <a href="https://www.clicshopping.org" target="_blank" rel="noreferrer"> ClicShopping ™ </a> - Copyright © Juin 2010 -
+
+modules_footer_suffix_copyright_text = <br /> Alle rechten voorbehouden op de website - Copyright ©

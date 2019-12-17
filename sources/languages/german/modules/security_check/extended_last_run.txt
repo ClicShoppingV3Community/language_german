@@ -1,0 +1,2 @@
+module_security_check_extended_last_run_old = Meer dan 30 dagen zijn verstreken sinds de laatste keer dat de uitgebreide beveiligingscontroles werden uitgevoerd. Voer de uitgebreide beveiligingscontroles in Tools en beveiligingscontroles opnieuw uit.
+extended_last_run = Laatste verificatie

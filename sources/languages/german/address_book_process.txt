@@ -1,0 +1,36 @@
+navbar_title_1 = Mijn account
+navbar_title_2 = Mijn adressen
+
+heading_title = Adresbeheer
+
+navbar_title_add_entry = Nieuw adres
+navbar_title_modify_entry = Adres wijzigen
+navbar_title_delete_entry = Adres verwijderen
+
+heading_title_add_entry = Nieuw adres
+head_title_modify_entry = Adres wijzigen
+head_title_delete_entry = Seminaradres
+
+delete_address_title = Adres verwijderen
+delete_address_description = Weet u zeker dat u het geselecteerde adres wilt verwijderen?
+
+new_address_title = Nieuw adres
+
+selected_address = Geselecteerd adres
+set_as_primary = Hoofdadres.
+
+success_address_book_entry_deleted = Het adres is succesvol verwijderd.
+success_address_book_entry_updated = Het adres is succesvol bijgewerkt.
+
+warning_primary_address_deletion = Het hoofdadres kan niet worden verwijderd. Selecteer een ander adres als hoofdadres en probeer het opnieuw.
+
+error_address_book_entry = Er is een fout gedetecteerd, verifieer uw informatie.
+error_nonexisting_address_book_entry = Het adres bestaat niet.
+error_address_book_full = Je hebt de limiet van toegestane adressen bereikt. Verwijder een adres dat u niet gebruikt om een ​​nieuw toe te voegen.
+error_address_book_no_add = U bent niet gemachtigd om een ​​nieuw adres toe te voegen aan uw persoonlijke notitieblok. Aarzel niet om contact met ons op te nemen voor meer informatie over deze onmogelijkheid.
+error_address_book_no_modify_default = U bent niet bevoegd om het hoofdadres van uw persoonlijke notebook te wijzigen. Aarzel niet om contact met ons op te nemen voor meer informatie over deze onmogelijkheid.
+
+button_delete = Verwijderen
+button_back = Terug
+button_update = Update
+button_continue = Doorgaan

@@ -1,0 +1,4 @@
+modules_contact_us_success_title = Wilt u het succes van een contact tonen?
+modules_contact_us_success_description = Show contact succes
+
+modules_contact_us_success_text_success = Bedankt, we zullen uw verzoek zorgvuldig lezen en binnenkort terugkomen

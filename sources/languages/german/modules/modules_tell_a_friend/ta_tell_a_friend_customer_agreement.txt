@@ -1,0 +1,2 @@
+modules_tell_a_friend_customer_agagement_title = Wilt u de overeenkomst van de klant tonen om informatie te verzenden?
+modules_tell_a_friend_customer_agg Agreement_description = Toon klantovereenkomst om informatie te verzenden

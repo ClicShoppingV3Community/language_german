@@ -1,0 +1,2 @@
+module_index_categories_name_title = Wilt u de categorienaam binnen de categorieën weergeven?
+module_index_categories_name_description = Toon de categorienaam binnen de categorieën.

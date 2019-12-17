@@ -1,0 +1,11 @@
+
+navbar_title_1 = Mijn account
+navbar_title_2 = Bestanden uploaden
+
+heading_title = Bestand uploaden
+
+text_products_file_download_introduction = Vul deze bestanden in zodat u uw bestanden kunt downloaden. Uw upload wordt uitgesteld totdat we zoeken als uw bestanden geen proeflezers zijn.
+text_products_file_download_select_categories = Selecteer uw categorieën
+text_products_file_download = Upload uw bestand
+text_products_file_download_message = Vul dit gedeelte in om uw module te beschrijven
+text_products_file_download_success_uploading = Bestand downloaden is een succes

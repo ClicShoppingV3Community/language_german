@@ -1,0 +1,7 @@
+module_create_account_pro_success_title = Succes: Wilt u een succespagina tonen?
+module_create_account_pro_success_description = Toon een succespagina
+
+button_continue = Doorgaan
+
+module_create_account_pro_success_text_account_created = Gefeliciteerd! Uw nieuwe account is succesvol aangemaakt! U kunt nu profiteren van de rechten van leden om uw online winkelervaring bij ons te verbeteren. Als u <strong> IEDEREEN </strong> vragen heeft over de werking van deze online winkel, stuur dan een e-mail naar <a href="index.php?Info&Contact"> {{store_owner}} </a>. <br /> <br /> Een bevestiging is verzonden naar het opgegeven e-mailadres. Als u het binnen een uur niet hebt ontvangen, neemt u <a href="index.php?Info&Contact"> contact met ons op </a>
+module_create_account_pro_success_text_account_created_1 = We hebben uw verzoek ontvangen. <br /> <br /> U ontvangt een e-mail met uw toegangscodes waarmee u onze website kunt bezoeken na een validatie en verificatie van onze verkoopafdeling. <br /> <br /> Neem gerust contact op met onze online helpdesk om aanvullende informatie aan te vragen. <br /> <br /> Groeten, <br /> Het {{store_name}} team

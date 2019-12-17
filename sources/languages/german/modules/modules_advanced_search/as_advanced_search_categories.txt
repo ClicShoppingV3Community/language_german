@@ -1,0 +1,6 @@
+module_advanced_search_categories_title = Wilt u een zoekopdracht per categorie weergeven?
+module_advanced_search_categories_description = Toon een zoekopdracht per categorie zodat de klant criteria kan invoegen
+
+modules_advanced_search_category_text_all_categories = Alle categorieën
+modules_advanced_search_category_entry_categories = Categorieën
+modules_advanced_search_category_entry_include_subcategories = Inclusief subcategorieën

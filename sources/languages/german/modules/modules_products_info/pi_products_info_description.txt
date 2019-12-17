@@ -1,0 +1,2 @@
+module_products_info_description = Wilt u de productbeschrijving tonen?
+module_products_info_description_description = Toon productbeschrijving

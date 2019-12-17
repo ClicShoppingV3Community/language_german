@@ -1,0 +1,4 @@
+module_shopping_cart_delay_save_cart_message_title = Wilt u een informatiebericht voor de klant weergeven waarin u de vertraging over dit winkelwagentje kunt weten?
+module_shopping_cart_delay_save_cart_message_description = Toont een informatiebericht voor de client waarmee u weet dat de vertraging over deze winkelwagen is opgeslagen
+
+module_shopping_cart_delay_save_cart_message_information = De inhoud van uw winkelmandje wordt hier langer dan 30 dagen bewaard, na registratie, zodat u op elk gewenst moment kunt terugkeren

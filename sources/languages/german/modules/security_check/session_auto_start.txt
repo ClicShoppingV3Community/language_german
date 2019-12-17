@@ -1,0 +1,1 @@
+warning_session_auto_start = session.auto_start is ingeschakeld; schakel deze php-functie in php.ini uit en start de webserver opnieuw

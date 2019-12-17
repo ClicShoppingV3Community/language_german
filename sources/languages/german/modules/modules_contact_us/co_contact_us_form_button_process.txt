@@ -1,0 +1,4 @@
+modules_contact_us_form_button_process_title = Wilt u de procesknop weergeven in het contactformulier?
+modules_contact_us_form_button_process_description = Toon de procesknop in het contactformulier (belangrijk om true te laten)
+
+button_continue = Doorgaan

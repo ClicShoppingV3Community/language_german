@@ -1,0 +1,28 @@
+module_advanced_search_help_name = Wilt u hulp op de webpagina zoeken?
+module_advanced_search_help_description = help weergeven op de webzoekpagina voor de client
+module_advanced_search_help_title = Hulp zoeken
+module_advanced_search_help_text = <br />
+Heeft u problemen om het product dat u zoekt te vinden? Onze zoekmachine is de snelste en meest effectieve manier om de optie te selecteren die aan uw verwachtingen voldoet.
+<br /> <br />
+<strong> hoe verder? </ Strong>
+<br />
+<br />
+Typ eenvoudig het woord dat u zoekt in de zoekbalk en klik op OK.
+<br />
+Het heeft verschillende filters (productcategorie, prijs, merken) waarmee u uw zoekopdracht kunt opgeven. Functies in geselecteerde categorieën, aanvullende filters verschijnen en maken een preciezere verfijning mogelijk.
+<br /> <br />
+<u> onderzoeksvoorbeelden </u> <br />
+<p class = "blockquote">
+<li class = "modulesAdvancedSearchHelp">
+U kunt een producttype, merk, beschrijving en referentie invoeren: USB, 1000 GB harde schijf, Samsung TV, 1EG1.054.04., Enz.
+</li>
+<li class = "modulesAdvancedSearchHelp">
+U kunt de trefwoorden scheiden door logische operatoren EN (y) en OF (o). U kunt bijvoorbeeld Blouse en broeken invoeren. Dit onderzoek toont u de resultaten die tegelijkertijd aan twee criteria voldoen.
+</li>
+<li class = "modulesAdvancedSearchHelp">
+U kunt ook zoeken in een string door de trefwoorden tussen dubbele aanhalingstekens te plaatsen. Een zoekopdracht in "Rood shirt" geeft bijvoorbeeld een lijst weer met alle elementen die overeenkomen met de exacte tekenreeks in uw beschrijving.
+</li>
+Send feedback
+History
+Saved
+Community

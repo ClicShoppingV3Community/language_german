@@ -1,0 +1,15 @@
+
+module_account_customers_notifications_title = Wilt u de informatie weergeven met betrekking tot de meldingen van de klant?
+ module_account_customers_notifications_title_description = Toon informatie met betrekking tot klantmeldingen
+ modules_account_customers_email_notifications_title = E-mailmeldingen
+ modules_account_customers_email_notifications_newsletters = Aanmelden of afmelden voor nieuwsbrieven.
+ modules_account_customers_email_notifications_products = Bekijk of wijzig de meldingenlijst van mijn product.
+
+ my_notifications_description = Met de lijst met productmeldingen kunt u op de hoogte blijven van de producten die u interesseren. <br /> <br /> Selecteer <strong> Algemene productmeldingen </strong> om op de hoogte te blijven van alle productwijzigingen.
+
+ global_notifications_title = Wereldwijde productmeldingen
+ global_notifications_description = Ontvang meldingen over alle beschikbare producten.
+
+ notifications_title = Productmeldingen
+ notifications_description = Om een ​​productmelding te verwijderen, schakelt u het product uit en klikt u op Doorgaan.
+ notifications_non_existing = Er zijn momenteel geen producten gemarkeerd om meldingen te ontvangen. <br /> <br /> Om producten toe te voegen aan uw lijst met productmeldingen, klikt u op de meldingslink op de gedetailleerde productinformatiepagina.

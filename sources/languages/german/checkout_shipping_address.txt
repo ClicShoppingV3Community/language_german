@@ -1,0 +1,21 @@
+
+navbar_title_1 = Aankoop doen
+navbar_title_2 = Afleveradres wijzigen
+
+heading_title = Verzendgegevens
+
+table_heading_shipping_address = Bezorgadres
+text_selected_shipping_destination = Dit is het afleveradres dat is geselecteerd voor het verzenden van de producten van uw bestelling.
+title_shipping_address = Bezorgadres:
+
+table_heading_address_book_entries = Adresboek
+text_select_other_shipping_destination = Selecteer een ander afleveradres voor uw bestelling als u wilt dat deze op een andere site wordt afgeleverd.
+title_please_select = Selecteren
+
+table_heading_new_shipping_address = Nieuw adres
+text_create_new_shipping_address = Gebruik het onderstaande formulier om een ​​nieuw adres in uw notitieblok te maken en gebruik dit als het afleveradres voor uw bestelling.
+
+table_heading_new_shipping_address_problem = Fout in het nieuwe verzendadres
+
+title_continue_checkout_procedure = Ga door met het aankoopproces
+text_continue_checkout_procedure = om de verzendmethode te selecteren

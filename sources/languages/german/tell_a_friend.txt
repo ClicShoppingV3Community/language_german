@@ -1,0 +1,25 @@
+navbar_title = Stuur naar een vriend
+heading_title_friends = Stuur naar een vriend
+
+heading_title_error = Fout bij vertellen aan een vriend
+
+copy_antispam = Kopieer antispam-code
+
+form_title_customer_details = Uw gegevens
+form_title_friend_details = Gegevens van uw vriend
+form_title_friend_message = Uw bericht
+
+text_email_successful_sent = Uw e-mail over <strong> {{products_name}} </strong> is succesvol verzonden naar <strong> {{products_name}} {{to_name}} </strong>.
+
+text_email_subject = Je vriend% s wil "% s" aanbevelen
+text_email_intro = Hallo {{to_name}}! ' . "\n \n". '
+Je vriend {{from_name}} heeft gedacht dat je geïnteresseerd zou zijn in {{products_name}} van {{store_name}}.
+text_email_link = Gebruik de volgende link om het product te bekijken: '. "\n \n". '{{url_product}}
+
+error_to_name = Fout: het adres van uw vriend mag niet leeg zijn.
+error_from_name = Fout: het adres van uw vriend moet geldig zijn.
+error_from_address = Fout: Uw naam mag niet leeg zijn.
+error_invalid_product = Deze producten zijn niet beschikbaar. Probeer het opnieuw
+entry_antispam = Hoe ma
+
+error cialis_recorder = Fout: er is al een e-mail verzonden. Probeer het over %s minuten opnieuw.

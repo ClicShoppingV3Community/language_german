@@ -1,0 +1,32 @@
+
+header_title = Administrator Login
+
+text_username = Gebruiker:
+text_password = Wachtwoord:
+text_name = Naam beheerder:
+text_firstname = Naam beheerder
+text_create_first_administrator = Er zijn geen beheerders in de database. Vul de volgende informatie in om de eerste beheerder aan te maken. (Na deze stap is een handmatige invoer vereist)
+header_title_sent_password = Wachtwoordherstel verloren
+text_sent_password = Als u uw wachtwoord bent vergeten, voer dan hieronder uw e-mailadres in en wij sturen u een e-mail met uw nieuwe wachtwoord.
+text_no_email_address_found = Fout: het e-mailadres of pseudo is niet gevonden in onze administratie, probeer het opnieuw.
+
+email_password_reminder_subject = {{store_name}} - Administrator control panel) - Nieuw wachtwoord
+email_password_reminder_body = Er is een nieuw wachtwoord aangevraagd bij {{remote_address}} <br /> <br /> Uw nieuwe wachtwoord bij {{store_name}} (Administrator Control Panel) is: <strong> {{new_password}} </ strong >. <br /> <br />
+
+success_password_sent = Correct: Er is een nieuw wachtwoord verzonden naar uw e-mailadres.
+button_submit = Verzenden
+text_new_text_password = Nieuw wachtwoord
+error_invalid_administrator = Fout: probeer ongeldige beheerder in te voeren.
+text_email_lost_password = Uw e-mailadres
+error_invalid_administrator = Fout: ongeldige poging tot inloggen van beheerder.
+button_login = Enter
+button_create_administrator = Beheerder aanmaken
+
+error cialis_recorder = Fout: het maximale aantal inlogpogingen is bereikt. Probeer het opnieuw over {{module cialis_recorder_admin_login_minutes}} minuten. Er is een e-mail verzonden naar de beheerder met hun contactgegevens (geolocatie). U kunt proberen opnieuw een verbinding te maken na het beheerpaneel voordat u permanent wordt geblokkeerd
+
+report_email_subject = Ontijdige verbinding in ClicShopping
+error cialis_recorder = Fout: het maximale aantal invoerpogingen is gedaan. Probeer het over% s minuten opnieuw.
+report_sender_ip_address = IP-adres van afzender
+report_sender_host_name = Afzender hostnaam:
+report_subject_email = [Report] Fout bij inloggen van beheerder
+report_sender_username = Gebruikersnaam:

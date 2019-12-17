@@ -1,0 +1,4 @@
+modules_productsiter_listing_image_title = Lijstcommentaar: Wilt u de productafbeelding weergeven?
+modules_productsiter_listing_image_description = Productafbeelding weergeven
+
+text_price =

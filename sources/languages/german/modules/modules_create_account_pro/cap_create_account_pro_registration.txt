@@ -1,0 +1,70 @@
+module_create_account_pro_registration_title = Wilt u het registratieformulier voor het aanmaken van een professioneel account tonen?
+module_create_account_pro_registration_description = Toon het registratieformulier voor het professioneel aanmaken van een account
+
+form_required = * Vereiste informatie
+
+category_address_pro = Adres
+category_company = Bedrijfsgegevens
+category_personal_pro = Uw persoonlijke gegevens
+category_address = Uw adres
+category_contact = Uw contactgegevens
+category_options = Opties
+category_password = Uw wachtwoord
+
+man = man
+vrouwelijk = vrouwelijk
+male_address = Mr.
+female_address = Ms.
+
+entry_gender = Geslacht:
+entry_gender_text = *
+
+entry_first_name = Naam:
+entry_first_name_text = *
+entry_last_name = Achternaam:
+entry_last_name_text = *
+entry_date_of_birth = Geboortedatum:
+entry_date_of_birth_text = * (bijvoorbeeld 05/21/1970)
+entry_email_address = E-mailadres:
+entry_email_address_confirmation = E-mailbevestiging:
+entry_email_address_confirmation_text = * Bevestig uw e-mail
+entry_telephone_number = Telefoonnummer:
+entry_telefoon_number_text = *
+entry_cellular_phone_number = Mobiel nummer:
+entry_cellular_phone_number_text =
+entry_fax_number = Faxnummer:
+entry_fax_number_text =
+entry_company_website = Website
+entry_company = Bedrijfsnaam:
+entry_company_text = *
+entry_company_text_pro = *
+entry_siret = Registratienummer:
+entry_siret_text = *
+entry_siret_exemple = (ex: RCS-code voor het Franse bedrijf)
+entry_code_ape = Nomenclatuurnummer:
+entry_code_ape_text = *
+entry_code_ape_exemple = (ex: APE-code voor het Franse bedrijf)
+entry_tva_intracom = Intracom-nr. BTW:
+entry_tva_intracom_text = * Selecteer eerst het land.
+entry_country = Land:
+entry_country_text = *
+entry_suburb = Voorstad:
+entry_suburb_error =
+entry_suburb_text =
+entry_street_address = Adres:
+entry_street_address_text = *
+entry_post_code = Postcode:
+entry_post_code_text = *
+entry_city = Plaats:
+entry_city_text = *
+entry_state = Status:
+entry_state_text = *
+entry_newsletter = Nieuwsbrief:
+entry_newsletter_text =
+entry_password = Wachtwoord:
+entry_password_text = *
+entry_password_confirmation = Wachtwoordbevestiging:
+entry_password_confirmation_text = * Bevestig uw wachtwoord
+
+text_create_account_pro_dgrp = We moeten uw e-mailadres gebruiken om uw account aan te maken en u toegang te geven. U kunt deze informatie op elk moment wijzigen.
+text_create_account_pro_dob_dgrp = Uw geboortedatum helpt ons uw leeftijd te identificeren en stelt u in staat om een ​​bestelling te plaatsen. We tonen uw geboortedatum niet zonder uw uitdrukkelijke toestemming

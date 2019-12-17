@@ -1,0 +1,11 @@
+module_account_customers_history_info_download_title = Geschiedenisinformatie: Wilt u het downloaden van bestanden in de geschiedenisinformatie toestaan?
+module_account_customers_history_info_download_description = Klanten toestaan bestanden te downloaden
+
+module_account_customers_history_info_download_text_heading_title = Downloaden
+module_account_customers_history_info_download_table_heading_download_date = Vervaldatum:
+module_account_customers_history_info_download_able_heading_download_count = Resterende downloads.
+module_account_customers_history_info_download_text_download_files = Download het bestand
+
+module_account_customers_history_info_download_text_download_header_title_my_account = Mijn account
+
+module_account_customers_history_info_download_text_download_header_footer_download = U kunt uw producten ook later downloaden in {{url}}

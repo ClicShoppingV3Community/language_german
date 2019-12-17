@@ -1,0 +1,468 @@
+
+date_format_short = %m/%d/%Y
+date_format_short_sql = %Y-%m-%d
+date_format_long = %A %d %B, %Y
+date_format = m/d/Y
+php_date_time_format = m/d/Y H:i:s
+date_time_format = %m/%d/%Y %H:%M:%S
+jquery_datepicker_format = yyyy-mm-dd
+jquery_datepicker_language = de
+js_date_format = dd/mm/yyyy
+
+html_params = dir="ltr" lang="de"
+charset = utf-8
+date_format_reference = Ym
+dob_format_string = mm/dd/yyyy
+
+header_title_top = Beheer
+header_title_support_site = Ondersteuning
+header_title_online_catalog = Online catalogus
+header_title_administration = Beheer
+header_title_logoff = Uitloggen
+
+man = man
+vrouwelijk = vrouwelijk
+
+box_configuration_mystore = Mijn winkel
+box_configuration_logging = Registratie
+box_configuration_cache = Cache
+box_modules_admin_dashboard = Bestuursbeheer
+box_heading_modules = Modules
+box_modules cialis_recorder = Actie-recorder
+box_modules_header_tags = Kopteksttags
+box_modules_social_bookmarks = Sociale netwerken
+box_modules_contact_customers = Klantcontact
+box_entry_newsletter_b2c = Abonnementsnummer voor nieuwsbrief (B2C)
+box_entry_recover_shopping_cart = Winkelwagen om op te halen
+
+box_modules_payment = Betaling
+box_modules_shipping = Verzending
+box_modules_order_total = Totaal bestelling
+box_catalog_manufacturers = Merken
+box_customers_customers = Klanten
+box_customers_orders = Bestellingen
+box_taxes_countries = Landen
+box_taxes_geo_zones = Fiscale zones
+box_localization_curncias = Valuta's
+box_localization_langgrams = Talen
+box_newsletter = Nieuwsbrief
+box_heading_help = Ondersteuning
+
+
+box_catalog_categories_priceupdate = Snelle update
+box_customers_approval = Wachten op goedkeuring
+box_customers_groups = Groepen
+
+text_box_heading_module = Module
+text_selected = - Selecteer -
+text_all_right = Alles
+text_all_rights_admin = Beheerdersrechten
+text_rights_employee = Medewerkersrechten
+text_rights_visitor = Bezoekersrechten
+
+js_error = Er zijn fouten opgetreden tijdens het verwerken van uw formulier! \nVoer de volgende wijzigingen aan:
+
+js_options_value_price = * het kenmerk heeft een prijs nodig \n
+js_options_value_price_prefix = * het kenmerk heeft een prefix nodig voor de prijs \n
+
+js_products_name = * het product heeft een naam nodig \n
+js_products_description = * het product heeft een beschrijving nodig \n
+js_products_price = * het product heeft een prijs nodig \n
+js_products_weight = * u moet het productgewicht opgeven \n
+js_products_quantity = * u moet de hoeveelheid opgeven \n
+js_products_model = * u moet het model opgeven \n
+js_products_image = * moet een afbeelding leveren \n
+
+js_specials_products_price = * debe rellenar el precio \n
+
+js_gender = * de waarde 'geslacht' moet worden gekozen.
+js_first_name = * de vermelding 'voornaam' moet minimaal {{min_length}} tekens bevatten.
+js_last_name = * de vermelding 'achternaam' moet minimaal {{min_length}} tekens bevatten.
+js_dob = * de vermelding 'geboortedatum' moet de notatie hebben: xx / xx / xxxx (maand / datum / jaar).
+
+js_email_address = * het e-mailadres is niet correct.
+js_address = * het straatadres moet minimaal {{min_length}} tekens bevatten.
+js_post_code = * de invoer van de postcode moet ten minste {{min_length}} tekens bevatten.
+js_city = * het stadsitem moet minimaal {{min_length}} tekens bevatten.
+js_state = * de statusinvoer moet worden geselecteerd.
+js_state_select = - selecteer hierboven -
+js_zone = * het statusitem moet worden geselecteerd uit de lijst voor dit land.
+js_country = * de landwaarde moet worden gekozen.
+js_telephone = * de invoer van het telefoonnummer moet ten minste {{min_length}} tekens bevatten.
+js_cellular_phone = * de invoer van het mobiele telefoonnummer moet ten minste {{min_length}} tekens bevatten.
+
+js_password = * la contraseña y confirmación deben ser iguales y tener al menos {{min_length}} caracteres. \n
+
+js_order_does_not_exist = ¡el número de pedido% s no existe!
+
+category_personal = persoonlijk
+category_address = domicilio
+category_address_default = Dirección principal
+category_contact = contacto
+category_company = empresa
+category_options = opciones
+category_newsletter = inscriptie met de nieuwsbrieven
+category_group_customer = type klant
+category_order_taxe = wijze van facturering
+category_order_taxe_group = factureringsmodus geautoriseerd voor de groep
+category_shipping_customer = geautoriseerde wijze van levering
+category_shipping_customer_group = wijze van levering geautoriseerd voor de groep
+category_order_customer = betalingswijze geautoriseerd
+category_order_customer_group = betalingswijze geautoriseerd voor de groep
+
+entry_gender = behandeling:
+entry_gender_error = &nbsp;<span class="errortext">verplicht</span>
+entry_first_name = te noemen:
+entry_first_name_error = &nbsp;<span class="errortext">min {{min_length}} kenmerken</span>
+entry_last_name = achternaam:
+entry_last_name_error = &nbsp;<span class="errortext">min {{min_length}} kenmerken</span>
+entry_date_of_birth = geboortedatum:
+entry_date_of_birth_error = &nbsp;<span class="errortext">(p.ej. 21/05/1970)</span>
+entry_email_address = e-mail:
+entry_email_address_error = &nbsp;<span class="errortext">min {{min_length}} kenmerken</span>
+entry_email_address_check_error = &nbsp;<span class="errortext">Uw email lijkt niet correct te zijn!</span>
+entry_email_address_error_exists = &nbsp;<span class="errortext">Deze e-mail bestaat al!</span>
+entry_company = bedrijfsnaam:
+entry_company_error = &nbsp;<span class="errorText">min {{min_length}} tekens</span>
+entry_street_address = adres:
+entry_street_address_error = &nbsp;<span class="errortext">min {{min_length}} kenmerken</span>
+entry_suburb =
+entry_suburb_error =
+entry_post_code = postcode:
+entry_post_code_error = &nbsp;<span class="errortext">min {{min_length}} cijfers</span>
+entry_city = bevolking:
+entry_city_error = &nbsp;<span class="errortext">min {{min_length}} kenmerken</span>
+entry_state = provincie:
+entry_state_error = &nbsp;<span class="errortext">verplicht</span>
+entry_country = país:
+entry_country_error =
+entry_telephone_number = teléfono:
+entry_telephone_number_error = &nbsp;<span class="errortext">min {{min_length}} cijfers</span>
+
+entry_cellular_phone_number = Mobiel nummer
+entry_cellular_phone_number_error =
+entry_fax_number = Faxnummer
+entry_fax_number_error =
+entry_telephone = Telefoonnummer
+
+
+entry_newsletter = nieuwsbrief:
+entry_newsletter_yes = ingeschreven
+entry_newsletter_no = niet ingeschreven
+entry_newsletter_error =
+entry_newsletter_language = Taal:
+
+entry_address_number = Adresnummer
+entry_adress_default = (Hoofdadres)
+entry_siret = Registratiecode:
+entry_siret_exemple = (ex: RCS-code voor het Franse bedrijf)
+entry_ape = Nomenclatur Nummer:
+entry_ape_exemple = (ex: APE-code voor het Franse bedrijf)
+entry_tva = Zonder btw Intracom:
+
+entry_tva_iso_error = &nbsp;<span class="errorText">Het codeland van twee letters lijkt niet correct te zijn.</span>
+
+entry_customers_group_name = Klantengroep:
+entry_groups_name = Naam:
+
+image_ani_send_email = e-mail verzenden
+image_archive = Bestand
+image_back = terug
+image_back = Terug
+image_backup = kopiëren
+image_batch_print_order = Batch afdrukken
+image_cancel = annuleren
+image_confirm = bevestigen
+image_copy = kopiëren
+image_copy_to = kopiëren naar
+image_details = detail
+image_delete = verwijderen
+image_edit = bewerken
+image_email = e-mail
+image_file_manager = Bestandsbeheer
+image_help = Help
+icon_edit_customer = Bewerk client
+icon_edit_order = Bewerk de opdracht
+
+image_icons = Activeer
+image_insert = invoegen
+image_lock = blokkeren
+image_module_install = module installeren
+image_module_remove = module verwijderen
+image_move = verplaatsen
+image_new_banner = nieuwe banner
+image_new_blog = Nieuw artikel
+image_new_category = nieuwe categorie
+image_new_country = nieuw land
+image_new_currency = nieuwe valuta
+image_new_file = nieuw bestand
+image_new_folder = nieuwe map
+image_new_language = nieuwe taal
+image_new_newsletter = nieuwe nieuwsbrief
+image_new_product = nieuw product
+image_new_tax_class = nieuw type belasting
+image_new_tax_rate = nieuw belastingtarief
+image_new_tax_zone = nieuwe belastingzone
+image_new_zone = nieuwe zone
+image_orders = bestellingen
+image_orders_erp = Bestelling geregistreerd in ERP
+image_orders_invoice_erp = Factuur geregistreerd in ERP
+image_orders_invoice_manual_erp = Factuur opgeslagen in ERP
+image_orders_invoice_cancel_erp = Factuur geannuleerd in ERP
+image_orders_history = Geschiedenis
+image_orders_invoice = factuur
+image_orders_packingslip = pakbon
+image_customers = Klanten
+image_newsletter = Nieuwsbrieven
+imageScore = Klantoordeel.
+image_preview = preview
+icon_preview = Catalogusvoorbeeld
+image_restore = opnieuw instellen
+image_reset = herstart
+image_save = opslaan
+image_search = zoeken
+image_select = selecteren
+image_send = verzenden
+image_send_email = stuur e-mail
+image_undo = Ongedaan maken
+image_unlock = ontgrendeld
+image_update = update
+image_update_cur oplage = wisselkoers bijwerken
+image_upload = uploaden
+image_categories = Categorieën
+image_specials = Specials
+image_manufacturers = Merken
+image_products_expected = Beheer van aankomsten op voorraad
+image_unpack = Uitpakken
+image_backup_db = Back-up van database
+image_banner = Banner Manager
+image_whos_online = Wie is er online?
+
+image_new_group = Nieuwe groep
+image_updateallprice = Update de volledige groepsprijs
+
+button_actualise = Update
+button_activate = Actief
+button_analyse = Analyseren
+button_archive = Bestanden
+button_back = Terug
+button_backup = Back-up
+button_cancel = Annuleren
+button_confirm = Bevestigen
+button_copy = Kopiëren
+button_delete = Verwijderen
+button_edit = Bewerken
+button_error_log = Foutenlogboek
+button_flag = Update status
+button_insert = Invoegen
+button_create_account = Account maken
+button_history = Geschiedenis
+button_invoice = PDF-factuur
+button_module_install = module-installatie
+button_move = Verplaatsen
+button_new = nieuw
+button_new_banner = Nieuwe banner
+button_new_products = Nieuw product
+button_new_ticket = Nieuw ticket
+button_new_category = Nieuwe categorie
+button_new_product = Nieuw product
+button_packingslip = Packingslip
+button_preview = Voorbeeld
+button_print_text = Afdrukken
+button_reset = Reset
+button_restore = Importeren
+button_send = Verzenden
+button_save = Opslaan
+button_unpack = Uitpakken
+button_update = Update
+
+icon_edit = Bewerken
+icon_cross = false
+icon_current_folder = map directory
+icon_delete = verwijderen
+icon_error = fout
+icon_file = bestand
+icon_file_download = download
+icon_folder = tapijt
+icon_locked = vergrendeld
+icon_previous_level = vorig niveau
+icon_preview = preview
+icon_statistics = statistieken
+icon_success = succes
+icon_tick = true
+icon_unlocked = ontgrendeld
+icon_warning = waarschuwing
+icon_help = help
+image_filter = filter
+
+text_result_page = página {{listing_from}} de {{listing_total}}
+text_display_number_of_link = viendo del <b> {{listing_from}} </b> al <b> {{listing_to}} </b> (de <b> {{listing_total}} </b> banners)
+
+prevnext_button_prev = &lt;&lt;
+prevnext_button_next = &gt;&gt;
+
+prevnext_title_previous_page = Vorige pagina
+prevnext_title_next_page = Volgende pagina
+prevnext_title_page_no = Pagina% d
+prevnext_title_next_set_of_no_page = Volgende set% d pagina's
+
+text_search = Zoeken
+text_default = standaard
+text_set_default = ingesteld als standaard
+text_field_required = &nbsp;<span class="fieldrequired">* verplicht</span>
+text_sort_all = Sorteren
+text_sort_by = Sorteren op
+text_descendingly = aflopend
+text_ascendingly = oplopend
+text_image_preview = Voorbeeld
+text_other = Anders
+text_legend = Legenda:
+text_all_groups = Alle klantgroepen
+
+text_cache_categories = categorieën
+text_cache_manufacturers = fabrikanten
+text_cache_also_purchased = ook gekocht
+text_cache_products_related = module gerelateerde producten
+text_cache_products_cross_sell = Product cross-selling module
+text_cache_new = Nieuwe producten
+text_cache_upcoming = Aankomende producten
+
+text_none = --geen--
+text_top = begin
+Send feedback
+History
+Saved
+Community
+text_twitter_message = Uw bericht is verzonden op Twitter! <br />
+text_twitter_profile = Bekijk uw profiel
+text_error_twitter_post = Fout, voer een bericht in en probeer het opnieuw. <br />
+
+text_header_user_administrator = Beheerder
+text_header_logoff_administrator = Uitloggen
+
+text_header_online_customers = Klanten
+text_header_number_of_customers = {{online_customer}} online
+
+text_header_icon_number_of_customers = Zie klanten online
+text_help_wysiwyg = Informatie over hoe het gebruik van WYSIWYG in afbeeldingen kan worden ondersteund
+text_close = Sluiten
+
+text_image_nonexistent = Geen afbeelding
+error_destination_does_not_exist = fout: bestemming bestaat niet.
+error_destination_not_writeable = fout: kan niet naar de bestemming schrijven.
+error_file_not_saved = fout: het geüploade bestand is niet opgeslagen.
+error_filetype_not_allowed = fout: bestandsextensie niet toegestaan.
+success_file_saved_successfully = success: bestand succesvol opgeslagen.
+warning_no_file_uploaded = waarschuwing: er is geen bestand geüpload.
+warning_edit_customers = De velden bevatten fouten waardoor u uw wijzigingen niet langer kunt registreren.
+error_file_not_writeable = Onmogelijk om naar deze bestanden te schrijven
+error_banner_title = Fout: bannertitel is vereist
+error_banner_group = Een foutbannergroep is vereist
+error_no_default_language_defined = Fout: er is geen taal. Kies er een in Beheerhulpmiddelen-> Locatie-> Talen
+error_log = Fouten zijn gedetecteerd, controleer de logboekmap:
+
+
+error_image_directory_does_not_exist = Fout: de doelmap bestaat niet:
+error_image_directory_not_writeable = Fout: de doelmap kan niet worden geschreven:
+error_image_does_not_exist = Fout: de afbeelding bestaat niet.
+error_image_is_not_writeable = Fout: afbeelding kan niet worden verwijderd.
+
+error_suppliers = Selecteer een provider in de lijst
+error_orders = Selecteer uw bestelnummer correct
+
+options_order = Facturering:
+options_order_national = Nationaal
+options_order_cee = Europese Unie
+options_order_international = Internationaal
+options_order_taxe = Inc. aan de belasting
+options_order_no_taxe = Exclusief belasting
+
+visitor_name = Nieuwe klant
+
+tax_included = VAT inc.
+tax_excluded = TAX exc.
+
+tab_general = Algemeen
+tab_orders = Facturering
+tab_shipping = Levering
+tab_categorie = Categorieën
+tab_description = Beschrijving
+tab_price = Prijs
+tab_desc = Beschrijving
+tab_img = Afbeeldingen
+tab_ref ​​= Metadata
+tab_societe = Bedrijven
+tab_adresse_book = boek
+tab_code_html = HTML-code
+tab_orders_details = Sorteren
+tab_statut = Status
+tab_options = Opties
+tab_quantity_discount = Hoeveelheidskorting
+tab_statistics = Statistieken
+
+fixed_amount = Vast bedrag
+percent_discount = Kortingspercentage
+price_total = Totale prijs
+product_quantity = producthoeveelheid
+
+keywords_google_trend = Google trend sleutelwoorden
+analysis_google_tool = Google analyse tool
+
+success_status_updated = Update succesvol
+error_unknown_status_flag = Onbekende fout
+error_no_access = Geen geautoriseerde toegang
+
+all_pages = Alle pagina's.
+one_by_one = Of een voor een:
+check_all = Controleer alles
+deselect_all = Schakel alles uit
+
+select_datas = --- Selecteer ---
+text_select = --- Selecteer ---
+text_all_orders = Alle status
+
+no_script_text = <strong> JavaScript lijkt te zijn uitgeschakeld in uw browser of is uitgeschakeld door een add-onblok. </strong> <br /> U moet JavaScript in uw browser hebben ingeschakeld om de functionaliteit van deze website te gebruiken. <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer"> Klik hier voor instructies voor het inschakelen van JavaScript in uw browser </a>.
+
+title_help_general = Help
+
+text_top = --- Top ---
+text_all_pages = alle pagina's
+text_one_by_one = Een voor een
+text_chek_all = Controleer alles
+text_deselect_all = Deselecteer alles
+
+text_address_first_name = Naam
+text_address_last_name = Achternaam
+text_address_company = Bedrijf
+text_address_street_address = Adres
+text_address_suburb = Voorstad
+text_address_city = Stad
+text_address_state = Status
+text_address_postcode = Postcode
+text_address_country = Land
+
+table_heading_qte = Hoeveelheid
+table_heading_products_model = Model
+table_heading_products = Producten
+table_heading_tax = Belasting
+table_heading_total = Totaal
+table_heading_price_exclude_tax = Price (ex)
+table_heading_price_incuding_tax = Price (inc)
+table_heading_total_exclude_tax = Totaal (ex)
+table_heading_total_incuding_tax = Totaal (inc)
+
+table_heading_customers_id = Klant-ID
+table_heading_customers_name = Naam
+table_heading_options = Opties
+
+visitor_name = Normale klant
+
+text_error_upload_file = Fout: fout bij laden van bestand
+
+text_number_support = Ondersteuning bestellen
+text_number_of_item = Artikelnummer
+text_success_import = Import succesvol
+button_continue = Doorgaan
+
+error_phpmailer = Als u dit bericht hebt: escapeshellcmd () is om veiligheidsredenen uitgeschakeld, moet u uw e-mail configureren in smtp en standaard geen sendmail gebruiken <br />
+Het bericht kon niet worden verzonden. Verzendfout: {{phpmailer_error}}

@@ -1,0 +1,8 @@
+
+navbar_title_1 = Bestelling plaatsen
+navbar_title_2 = Verzendmethode
+
+header_title_checkout_shipping = Bezorginformatie
+ 
+error_no_shipping_available_to_shipping_address = Er is momenteel geen verzendmodus beschikbaar voor het geselecteerde verzendadres. Selecteer of maak een nieuw verzendadres voor uw aankoop.
+error_during_process = Fout: er treedt een fout op tijdens het verzendproces

@@ -1,0 +1,3 @@
+module_boxes_order_history_title = Bestelgeschiedenis
+module_boxes_order_history_description = Toon productmeldingen op de klantinformatiepagina
+module_boxes_order_history_box_title = Bestelgeschiedenis

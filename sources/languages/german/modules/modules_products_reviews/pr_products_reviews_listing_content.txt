@@ -1,0 +1,6 @@
+modules_products_reviews_listing_content_title = Lijstcommentaar: kan de client de reacties lezen?
+  modules_products_reviews_listing_content_description = Laat klant opmerkingen lezen
+
+  modules_products_reviews_listing_content_comment = Opmerkingen van de bewaarders
+  modules_products_reviews_listing_content_text_result_page = resulteren
+  modules_products_reviews_listing_content_text_of_5_stars = ster (len)

@@ -1,0 +1,11 @@
+modules_tell_a_friend_customer_title = Wilt u het formulier voor de klant met hun gegevens tonen?
+modules_tell_a_friend_customer_description = Toon degene voor de klant met hun gegevens
+
+modules_tell_a_friend_title_customer_details = Uw gegevens
+modules_tell_a_friend_field_customer_name = Uw naam:
+modules_tell_a_friend_entry_first_name_text = *
+
+modules_tell_a_friend_field_customer_email = Uw e-mailadres
+modules_tell_a_friend_entry_email_address_text = *
+
+modules_tell_a_friend_email_dgrp = We hebben uw e-mail nodig om uw vriend te laten weten dat u een bericht verzendt

@@ -1,0 +1,5 @@
+modules_productscore_listing_button_process_title = Lijst Reactie: Wilt u dat de client de procesknop toont?
+modules_productscore_lisitng_button_process_description = Toon procesknop
+
+button_write = Schrijf een opmerking
+button_back = Terug

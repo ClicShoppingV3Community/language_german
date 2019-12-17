@@ -1,0 +1,4 @@
+module_products_info_date_available = Wilt u de datum van het beschikbare product tonen?
+module_products_info_date_available_description = Toon beschikbare productdatum
+
+text_date_available = <p style="color: #ff0000;"> <strong> Dit product is beschikbaar op {{date}}. <br /> Je kunt het nu boeken </strong> </style>

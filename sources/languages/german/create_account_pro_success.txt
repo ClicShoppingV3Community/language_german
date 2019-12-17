@@ -1,0 +1,8 @@
+navbar_title_1 = Maak een account aan
+navbar_title_2 = Succes
+
+heading_title_account_created = Uw account is aangemaakt
+heading_title_account_wait = Validatieverzoek voor een professioneel account!
+
+module_create_account_pro_success_text_account_created = Gefeliciteerd! Uw account is succesvol aangemaakt! <br /> <br /> Nu hebt u toegang tot alle speciale prijzen die u voor u maakt. <br /> <br /> Neem gerust contact op met onze <a href = "'index. php? Info & Contact'"> professionele klantenservice </a> voor alle vragen. <br /> <br /> Opmerking: u heeft een bevestiging per e-mail ontvangen. Als u deze bevestiging niet binnen 1 uur ontvangt, aarzel dan niet om contact op te nemen met onze <a href="{{url_support}}"> assistentie </a>
+module_create_account_pro_success_text_account_created_1 = We hebben uw verzoek ontvangen om een ​​professioneel account te openen. <br /> <br /> U ontvangt een e-mail met uw toegangscode en kunt u profiteren van onze speciale prijzen na verificatie door onze klantenservice. <br /> <br /> Neem gerust contact met ons op voor meer informatie. <br /> <br /> Groeten, <br /> {{store_name}}} team;

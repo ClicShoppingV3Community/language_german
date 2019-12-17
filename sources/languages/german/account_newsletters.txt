@@ -1,0 +1,7 @@
+
+navbar title_1 = Mijn account
+navbar title_2 = Abonnement op nieuwsbrief
+
+heading_title = Nieuwsbrief abonnement
+
+success_newsletter_updated = Uw abonnementen zijn succesvol bijgewerkt.

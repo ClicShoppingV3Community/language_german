@@ -1,0 +1,2 @@
+module cialis_recorder_admin_login_title = Voer de Administration Tool in
+module cialis_recorder_admin_login_description = Toegangslogboek in de beheertool.

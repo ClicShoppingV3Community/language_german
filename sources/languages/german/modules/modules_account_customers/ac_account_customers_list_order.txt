@@ -1,0 +1,11 @@
+e klant tonen?
+module_account_customers_list_order_description = Klantorder tonen
+
+module_account_customers_list_order_order = Mijn bestellingen
+module_account_customers_list_order_order_text = <strong> Opmerking: </strong> wijzig uw bestelling voor elke klacht / intrekking of verzoek om een voltooide bestelling en klik op de ondersteuningslink
+
+overview_title = Overzicht
+overview_show_all_orders = (toon alle bestellingen)
+overview_previous_orders = Vorige bestellingen
+
+button_view = Tonen

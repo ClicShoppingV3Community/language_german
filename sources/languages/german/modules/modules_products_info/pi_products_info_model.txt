@@ -1,0 +1,2 @@
+module_products_info_model = Wilt u het productmodel inschakelen?
+module_products_info_model_description = Toon productmodel

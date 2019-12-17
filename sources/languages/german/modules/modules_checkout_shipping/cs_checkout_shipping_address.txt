@@ -1,0 +1,5 @@
+module_checkout_shipping_address_title = Wilt u het verzendadres tonen?
+module_checkout_shipping_address_description = Verzendadres tonen
+module_checkout_shipping_address_title_shipping_address = Verzendadres:
+module_checkout_shipping_address_text_choose_shipping_destination = Kies het gewenste verzendadres.
+module_checkout_shipping_address_button_change_address = Wijzig uw adres

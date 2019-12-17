@@ -1,0 +1,8 @@
+
+navbar_title_1 = Mijn account
+navbar_title_2 = Mijn account bewerken
+heading_title = Mijn accountgegevens
+success_account_updated = Uw account is succesvol bijgewerkt.
+
+error_address_modify_company = U bent niet bevoegd om de bedrijfsinformatie te wijzigen. Aarzel niet om ons te contacteren voor meer informatie over deze onmogelijkheid.
+entry_email_address_text = *

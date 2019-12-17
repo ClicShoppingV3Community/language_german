@@ -1,0 +1,2 @@
+module_header_message_stack_title = Wilt u de foutmelding / module-informatie inschakelen?
+module_header_message_stack_description = Toon een fout of informatie in de winkel om de klant te helpen

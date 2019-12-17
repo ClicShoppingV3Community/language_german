@@ -1,0 +1,12 @@
+module_login_customer_privacy = Wilt u privacy-informatie tonen?
+module_login_customer_privacy_description = Toon een tekst over een privacy- en privacyinformatie voor de klant
+
+text_customer_privacy = <strong> Beveiligde gegevens </strong> <br /> <br /> {{store_name}} stemt ermee in al uw persoonlijke informatie te beschermen en strikte vertrouwelijkheid te handhaven. Wij verkopen geen e-mailadressen aan e-mailmarketingbedrijven.
+De informatie die u verstrekt, behalve uw wachtwoord dat is gecodeerd en niet kan worden gelezen, is voor geautoriseerd {{store_name}} geautoriseerd personeel dat de controller is.
+Uw gegevens worden gebruikt om uw toegang tot uw klantaccount {{store_name}} te beheren, en ook voor het verwerken en volgen van uw bestellingen, de after-sales service van de producten die op onze site zijn besteld,
+marketing management en klantrelaties, incasso en fraudebestrijding.
+Uw gegevens, behalve uw wachtwoord, kunnen worden verzonden naar de {{store_name}} leveranciers voor orderverwerking, klantrelatiebeheer en after-sales service.
+In toepassing van de wet van 6 januari 1978 op computers, bestanden en vrijheden, hebt u de rechten, toegang en rectificatie van uw persoonlijke gegevens en het recht om bezwaar te maken tegen uw verwerking om legitieme redenen. U hebt ook het recht om specifieke of algemene richtlijnen te formuleren met betrekking tot de opslag, verwijdering en communicatie van uw post mortem-gegevens. U kunt al deze rechten uitoefenen door contact met ons op te nemen via het contactformulier van de site. <br />
+U kunt ook uw persoonlijke gegevens en voorkeuren op elk gewenst moment in uw account beheren
+
+rubriek_title_b2b = Privacy-informatie

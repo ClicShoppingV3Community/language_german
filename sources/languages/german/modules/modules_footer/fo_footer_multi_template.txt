@@ -1,0 +1,27 @@
+module_footer_multi_template_title = Wilt u het systeem van meerdere sjablonen in de voettekst weergeven?
+module_footer_multi_template_description = Voeg een systeem met meerdere sjablonen toe
+
+module_footer_multi_template_account_heading_title = Mijn account
+module_footer_multi_template_contact_us_heading_title = Neem contact met ons op
+module_footer_multi_template_text_heading_title = Beveiliging / vertrouwelijkheid
+module_footer_multi_template_text_text = Onze partners zijn geselecteerd vanwege hun ernst en hun vermogen om transacties te beveiligen en wij verkopen geen e-mails aan onze klanten
+module_footer_multi_template_information_heading_title = Volg ons
+
+module_footer_multi_template_contact_us_email_link = Neem contact met ons op
+
+module_footer_multi_template_information_shipping = Facebook
+module_footer_multi_template_information_privacy = twitter
+module_footer_multi_template_information_contact = Pinterest
+
+module_footer_multi_template_account_box_account = Mijn account
+module_footer_multi_template_account_box_address_book = Mijn adresboek
+module_footer_multi_template_account_box_order_history = Mijn geschiedenis
+module_footer_multi_template_account_box_logoff = Uitloggen
+module_footer_multi_template_account_box_create_account = Account maken
+module_footer_multi_template_account_box_login = Inloggen
+
+module_footer_multi_template_mailchimp_text = Abonnement op nieuwsbrief
+module_footer_multi_template_mailchimp_submit = Abonneren
+
+module_footer_multi_template_mailchimp_valid_email_address = voer een geldig e-mailadres in
+module_footer_multi_template_mailchimp_enter_email_address = Voer uw e-mailadres in

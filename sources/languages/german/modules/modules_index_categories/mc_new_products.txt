@@ -1,0 +1,37 @@
+module_index_categories_new_products_title = Wilt u het productnieuws in de categorieën weergeven?
+module_index_categories_new_products_description = Toon productnieuws in categorieën
+module_index_categories_new_products_name = Het laatste nieuws in deze categorieën
+
+module_index_categories_products_heading_title = Nieuwe producten
+
+
+text_stock = Voorraad
+text_flash_discount = Flitskorting
+text_customer_quantity = Aantal
+text_products_quantity_type = Soort hoeveelheid
+text_products_free = Gratis
+text_manufacturer = Merken
+text_products_price_kilo = Px / Kg
+text_date_available = Beschikbare datum
+text_only_shop = Alleen kopen
+text_only_web = Alleen internet
+text_products_info_packaging_text = Product
+text_products_packaging_new = Nieuw
+text_products_packaging_repackaged = herverpakking
+text_products_packaging_used = gebruikt
+text_display_shipping_delay = Verzendvertraging
+text_products_volume = Volumen
+text_display_products_weight = Kg
+text_price =
+
+text_out_of_stock = Uitverkocht
+text_alert_stock = Voorraad alert
+text_in_stock = voorraad
+
+min_qty_product = min. aantal
+
+button_details = gegevens
+button_buy_now = kopen
+button_exhausted = Uitverkocht
+
+template_does_not_exist = De sjabloon bestaat niet, verifieer uw sjabloon

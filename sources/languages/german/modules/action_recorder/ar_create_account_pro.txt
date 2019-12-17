@@ -1,0 +1,3 @@
+module cialis_recorder_create_account_pro_title = Maak account Pro catalogus aan
+module cialis_recorder_create_account_pro_description = Registreer het gebruik van het aanmaken van een account voor de catalogus
+

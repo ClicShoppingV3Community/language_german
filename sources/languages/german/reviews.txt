@@ -1,0 +1,3 @@
+navbar_title = Opmerkingen
+heading_title = Lees wat anderen zeggen
+text_no_reviews = Geen reacties

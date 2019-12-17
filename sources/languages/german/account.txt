@@ -1,0 +1,9 @@
+navbar_title = Mijn account
+heading_title = Mijn account
+
+my_support = Neem contact op met de klantenservice
+my_orders_title = Mijn bestellingen
+my_orders_view = Bekijk de bestellingen die u hebt geplaatst.
+
+module_account_customers_my_account_information = E-mailmeldingen
+module_account_customers_my_account_address_book = Abonneer u op nieuwsbrieven of niet.

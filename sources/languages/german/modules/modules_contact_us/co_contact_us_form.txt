@@ -1,0 +1,28 @@
+modules_contact_us_form_title = Wilt u de contactvelden in het contactformulier inschakelen?
+modules_contact_us_form_description = voeg contactvelden toe in het contactformulier
+
+text_administrator_department = Geen afdeling gedefinieerd
+
+entry_customers_id = Uw klantnummer:
+entry_order = Uw bestelnummer:
+entry_date = Datum:
+entry_customers_phone = Telefoon:
+
+entry_need_customers = Geef de service aan om contact op te nemen?
+entry_customer = Vraag cliënt:
+
+entry_note_registering = Vertel ons het productmodel of alle relevante informatie over het probleem in de door u geplaatste bestelling of uw behoefte <br /> <br />
+entry_note_no_registering = Als u een reeds geplaatste bestelling aanvraagt, klik dan op: <a href="index.php?Account&Main"> Mijn account </a> en kies vervolgens uw bestelnummer <br /> <br />
+
+entry_name = Volledige naam:
+entry_email = E-mailadres:
+entry_enquiry = Vraag:
+entry_enquiry_customer = Uw bericht:
+entry_enquiry_customer_information = Klantbericht:
+entry_email_object_customer = Verzoek om kopie
+entry_customers_subject = Onderwerp van uw verzoek:
+
+send_department_company = Contact met de afdeling:
+
+entry_customers_phone_dgrp = We hebben uw telefoonnummer nodig om uiteindelijk contact met u op te nemen
+entry_email_dgrp = We hebben uw e-mail nodig om te antwoorden

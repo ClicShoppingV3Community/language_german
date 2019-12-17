@@ -1,0 +1,2 @@
+modules_productscore_listing_description_title = Lijstcommentaar: Wilt u de beschrijving van de producten en de titel weergeven?
+modules_productsOORD_listing_description_description = Toon productbeschrijving en titel

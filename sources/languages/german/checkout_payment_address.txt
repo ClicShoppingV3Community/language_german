@@ -1,0 +1,19 @@
+navbar_title_1 = Afrekenen
+navbar_title_2 = Factuuradres wijzigen
+
+heading_title = Betalingsmethode
+
+table_heading_payment_address = Factuuradres
+text_selected_payment_destination = Dit is het geselecteerde factuuradres, waar de factuur naartoe wordt verzonden.
+title_payment_address = Factuuradres:
+
+table_heading_address_book_entries = Adresboek
+text_select_other_payment_destination = Selecteer het adres voor het verzenden van de factuur voor deze bestelling als u deze naar een andere site wilt verzenden.
+title_please_select = Selecteren
+
+table_heading_new_payment_address = Nieuw factuuradres
+text_create_new_payment_address = Gebruik het onderstaande formulier om een ​​nieuw adres in uw notitieblok te maken en gebruik het als factuuradres in deze volgorde.
+
+title_continue_checkout_procedure = Ga door met het aankoopproces
+text_continue_checkout_procedure = om de betaalmethode te selecteren.
+error_address_book_no_modify_default = U bent niet bevoegd om dit adres te wijzigen. Neem contact met ons op voor meer informatie.

@@ -1,0 +1,10 @@
+
+navbar_title = Gebruik van cookies
+header_title = Gebruik van cookies
+
+text_information = We hebben vastgesteld dat uw browser geen cookies ondersteunt of heeft gedeactiveerd. <br> <br> Om door te gaan met winkelen, nodigen wij u uit om cookies in uw browser te activeren. <br> <br> Voor de browser <b> Internet Explorer < / b>, volg deze instructies: <br> <ol> <li> Selecteer Internet-opties in het menu Extra </li> <li> Selecteer het tabblad Beveiliging en stel het beveiligingsniveau in op de Gemiddelde positie </ li> </ol> We hebben deze beveiligingsmaatregel voor u genomen en we verontschuldigen ons bij voorbaat voor het eventuele ongemak. <br> <br> Neem contact met ons op als u vragen heeft of om uw aankopen te doen offline.
+
+box_information_heading = Beveiliging en privacy van cookies
+box_information = Cookies moeten geactiveerd zijn om door te gaan met winkelen in deze winkel om de privacy en veiligheid van uw bezoek aan deze site te verbeteren. <br> <br> Door ondersteuning voor cookies in uw browser in te schakelen kunnen wij garanderen dat alleen u bewerkingen namens u uitvoert en u Zorgt voor de privacy van uw gegevens.
+
+ button_continue = Doorgaan

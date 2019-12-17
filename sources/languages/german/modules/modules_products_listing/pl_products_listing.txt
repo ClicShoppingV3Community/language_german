@@ -1,0 +1,45 @@
+module_products_listing_title = Wilt u de lijst met producten (zoekresultaten en categorieën) weergeven?
+module_products_listing_description = Toon een lijst met producten
+
+text_heading_title = Aanbevolen producten
+text_date_added = Te koop vanaf:
+text_product_options = Opties
+min_qty_order_product = Minimale hoeveelheid voor een aankoop:
+text_no_products = Er zijn momenteel geen producten
+
+text_stock = Voorraad
+text_flash_discount = Flitskorting
+text_customer_quantity = Aantal
+text_products_quantity_type = Soort hoeveelheid
+text_products_free = Gratis
+text_manufacturer = Merken
+text_products_price_kilo = Px / Kg
+text_date_available = Beschikbare datum
+text_only_shop = Alleen kopen
+text_only_web = Alleen internet
+text_products_info_packaging_text = Product
+text_products_packaging_new = Nieuw
+text_products_packaging_repackaged = herverpakking
+text_products_packaging_used = gebruikt
+text_display_shipping_delay = Verzendvertraging
+text_products_volume = Volumen
+text_display_products_weight = Kg
+text_price =
+
+text_sort_by = Tonen door
+
+text_out_of_stock = Uitverkocht
+text_alert_stock = Voorraad alert
+text_in_stock = voorraad
+
+table_heading_price = prijs
+table_heading_model = model
+table_heading_quantity = kwantiteit
+table_heading_weight = gewicht
+table_heading_date = datum
+
+button_details = gegevens
+button_buy_now = kopen
+button_exhausted = Uitverkocht
+
+template_does_not_exist = De sjabloon bestaat niet, verifieer uw sjabloon

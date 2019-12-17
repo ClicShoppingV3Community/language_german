@@ -1,0 +1,6 @@
+navbar_title = Enter
+heading_title_login = Open een account
+rubriek_new_customer = Nieuwe klant
+text_new_customer_introduction = Kies een van de volgende opties. Door een account aan te maken bij {{store_name}}, kunt u sneller winkelen, op de hoogte blijven van de status van bestellingen en bestellingen volgen die u eerder hebt geplaatst.
+text_login_error = Fout: er is geen overeenkomst voor het e-mailadres en / of wachtwoord.
+text_visitors_cart =  <strong>Note:</strong></font> Your &quot;Visitors Cart&quot; contents will be merged with your &quot;Members Cart&quot; contents once you have logged on. <a href="javascript:session_win(;">[More Info]</a>

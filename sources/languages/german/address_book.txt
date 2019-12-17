@@ -1,0 +1,19 @@
+navbar_title_1 = Mijn account
+navbar_title_2 = Mijn adressen
+
+heading_title = Mijn adressen
+
+rubriek_descriptie = Creëer een ander adres: uw hoofdverblijf, uw woordadres, etc.
+
+primary_address_title = Hoofdadres
+primary_address_description = Dit adres wordt standaard geselecteerd voor verzending en facturering van uw bestellingen. <br> <br> Dit adres wordt ook gebruikt om de toepasselijke belastingen te berekenen.
+
+address_book_title = Adresboekvermeldingen
+
+primary_address = (primary_address)
+primary_book_title = (hoofdadres)
+text_maximum_entries = <span class = "inputRequirement"> OPMERKING: </span> Maximaal% s adressen zijn toegestaan.
+
+button_edit = Bewerken
+button_delete = Verwijderen
+button_back = Terug

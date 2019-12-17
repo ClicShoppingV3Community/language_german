@@ -1,0 +1,5 @@
+module_shopping_cart_out_of_stock_message_title = Wilt u een bericht weergeven wanneer het product niet beschikbaar is?
+module_shopping_cart_out_of_stock_message_description = Toon een bericht wanneer het product niet beschikbaar is
+
+module_shopping_cart_out_of_stock_cant_checkout = Producten gemarkeerd met {{out_of_stock}} bestaan niet in de gewenste hoeveelheid in onze voorraad. <br /> Wijzig de hoeveelheid producten gemarkeerd met ({{out_of_stock}}).
+module_shopping_cart_out_of_stock_can_checkout = Producten gemarkeerd met {{out_of_stock}} bestaan niet in de gewenste hoeveelheid in onze voorraad. <br /> Je kunt ze toch kopen en de hoeveelheid die we op voorraad hebben controleren voor onmiddellijke levering in het betalingsproces.

@@ -1,0 +1,8 @@
+
+rubriek_title = Beveiligingscontrole
+
+text_information = We hebben vastgesteld dat uw browser een andere Secure Session Identification heeft gegenereerd dan die u tijdens uw bezoek hebt gebruikt. <br> <br> Om veiligheidsredenen moet u opnieuw inloggen om uw identiteit te verifiëren. <br> <br> Sommige browsers kunnen niet automatisch een Secure Session ID genereren. In dat geval raden we aan om over te schakelen naar een andere die het ondersteunt, om door te gaan met uw ervaring. <br> <br> We hebben deze beveiligingsmaatregel voor uw voordeel genomen en we verontschuldigen ons bij voorbaat voor eventueel ongemak. <br> < br> Neem contact met ons op als u vragen heeft of om uw aankopen offline te doen.
+
+box_information_heading = Beveiliging en privacy
+box_information = We valideren de Secure Session Identification die automatisch door uw browser wordt gegenereerd bij elk verzoek dat u aan deze server doet. <br> <br> Deze validatie zorgt ervoor dat u met uw account browst en niet door een andere persoon.
+button_continue = voortzetten

@@ -1,0 +1,5 @@
+modules_productscore_info_button_process_title = Conferentieopmerking: Wilt u dat de client de procesknop toont?
+modules_productsessie_info_button_process_description = Laat de client de procesknop zien
+
+button_write = Schrijf een opmerking
+button_back = Terug

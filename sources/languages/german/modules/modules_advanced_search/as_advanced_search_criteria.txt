@@ -1,0 +1,3 @@
+module_advanced_search_criteria_title = Wilt u een zoekveld weergeven?
+module_advanced_search_criteria_description = Toon een zoekveld waarmee de klant criteria kan invoeren
+module_advanced_search_criteria_text = Zoekcriteria

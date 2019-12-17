@@ -1,0 +1,5 @@
+navbar_title_1 = Mijn account
+navbar_title_2 = Gdpr
+
+text_success_gdpr = Succes, uw actie is uitgevoerd
+text_error_delete = Er is een fout gedetecteerd, probeer het opnieuw of neem contact met ons op.

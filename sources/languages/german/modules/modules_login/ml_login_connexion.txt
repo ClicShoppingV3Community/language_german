@@ -1,0 +1,13 @@
+module_login_connexion = Wilt u het inlogformulier in het klantaccount tonen?
+module_login_connexion_description = Zie het volledige clientverbindingsformulier.
+module_login_connexion_heading_new_customer = Ik ben een klant
+
+module_login_connexion_heading_returning_customer = Ik ben een klant
+module_login_connexion_text_returning_customer = Ik ben een terugkerende klant.
+module_login_connexion_entry_email_address = Uw e-mailadres:
+module_login_connexion_entry_email_address_text =
+module_login_connexion_entry_password = Wachtwoord:
+module_login_connexion_text_password_forgotten = Wachtwoord vergeten? Klik hier
+
+button_login = Inloggen
+module_login_connexion_entry_password_text = Wachtwoord vergeten

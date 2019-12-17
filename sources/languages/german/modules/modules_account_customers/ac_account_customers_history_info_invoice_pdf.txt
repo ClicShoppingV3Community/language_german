@@ -1,0 +1,4 @@
+module_account_customers_history_info_invoice_pdf_title = Geschiedenisinformatie: Wilt u het downloaden van de factuur in pdf toestaan?
+module_account_customers_history_info_invoice_pdf_description = Laat de factuur downloaden in pdf
+
+module_account_customers_history_info_invoice_pdf_text = Factuur

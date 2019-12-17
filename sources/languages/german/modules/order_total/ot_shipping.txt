@@ -1,0 +1,5 @@
+module_order_total_shipping_title = Verzendkosten
+module_order_total_shipping_description = Verzending bestellen
+
+free_shipping_title = Gratis verzending
+free_shipping_description = Gratis verzending voor bestellingen van meer dan %s

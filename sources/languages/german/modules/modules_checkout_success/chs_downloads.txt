@@ -1,0 +1,6 @@
+module_checkout_success_downloads_title = Productdownload
+module_checkout_success_downloads_description = Toon product download links op de "checkout succes" pagina
+table_heading_download_date = Vervaldatum:
+table_heading_download_count = resterende downloads
+rubriek_download = Download uw producten hier:
+footer_download = U kunt uw producten later downloaden in% sMODULE_CONTENT_CHECKOUT_SUCCESS_DOWNLOADS_TITLE = Productdownload
