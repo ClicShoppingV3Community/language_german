@@ -30,7 +30,7 @@ Implementation:
     - code : de
     - image : de
     - directory : german
-    - local : de_DE.utf8;enu_deu
+    - local : de_DE.UTF-8;de_DE.utf8;enu_deu
 - click on german flag to create the cache in your catalog
 
 
