@@ -289,10 +289,10 @@ email_text_product_stock = Voorraad van nieuwe producten
 email_text_date_alert = Waarschuwingsdatum
 
 text_install =
-<div style = "text-align: center; padding-top: 50px;"> <a href="https://www.clicshopping.org" target="_blank" rel="noreferrer"> <img src = " images / logo_clicshopping_1.png "border =" 0 "height =" 105 "width =" 284 "alt =" Market Place "> </a> <br />
+<div style = "text-align: center; padding-top: 50px;"> <a href="https://www.clicshopping.org" target="_blank" rel="noopener"> <img src = " images / logo_clicshopping_1.png "border =" 0 "height =" 105 "width =" 284 "alt =" Market Place "> </a> <br />
 <div style = "padding-top: 120px;"> Gefeliciteerd, u hebt het installatieproces met succes voltooid, lees de onderstaande informatie </div>
 <div style = "padding-top: 20px;"> Klik op het ClicShopping-logo om verbinding te maken met Market Place om te starten en selecteer de module die u wilt installeren </div>
 <div> ClicShopping is gebaseerd op een modulaire architectuur, om te gebruiken, moet u de modules installeren. Ga naar MarketPlace </div> voor meer informatie
 <div> <br /> - Meer informatie over de installatiemodule, klik op deze link: <a href = "https://www.clicshopping.org/marketplace/mes-premiers-pas-bl-9.html "target =" _blank "rel =" noreferrer "> Mijn eerste stap </a> </div>
-<div> - Om het Starter Pack te downloaden: klik: <a href="https://www.clicshopping.org/marketplace/sources/public/clicshopping/" target="_blank" rel="noreferrer"> Pack Starter </a> en installeer via het ClicShopping-installatiesysteem en activeer de modules </div>
-<div> - Voor meer informatie, bezoek onze: <a href="https://www.clicshopping.org/marketplace/index.php?Blog&Categories" target="_blank" rel="noreferrer"> blog </a> </div>
+<div> - Om het Starter Pack te downloaden: klik: <a href="https://www.clicshopping.org/marketplace/sources/public/clicshopping/" target="_blank" rel="noopener"> Pack Starter </a> en installeer via het ClicShopping-installatiesysteem en activeer de modules </div>
+<div> - Voor meer informatie, bezoek onze: <a href="https://www.clicshopping.org/marketplace/index.php?Blog&Categories" target="_blank" rel="noopener"> blog </a> </div>

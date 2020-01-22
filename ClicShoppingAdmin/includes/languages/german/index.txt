@@ -77,7 +77,7 @@ icon_view_order = Zie klantorder
 
 
 text_error_twitter = Fout, voeg een bericht in. <br />
-text_subscription_twitter = Neem een ​​abonnement op <a href="https://www.twitter.com" target="_blank" rel="noreferrer"> Twitter </a> om de kracht van het sociale web te benutten voor uw marketingontwikkeling . Na het configureren van ClicShopping (Instellingen / Mijn beheer / Sociale webinstellingen) om Twitter te gebruiken.
+text_subscription_twitter = Neem een ​​abonnement op <a href="https://www.twitter.com" target="_blank" rel="noopener"> Twitter </a> om de kracht van het sociale web te benutten voor uw marketingontwikkeling . Na het configureren van ClicShopping (Instellingen / Mijn beheer / Sociale webinstellingen) om Twitter te gebruiken.
 
 linkedin_certificate_clicshopping = Ontvang uw ClicShopping-certificering!
 

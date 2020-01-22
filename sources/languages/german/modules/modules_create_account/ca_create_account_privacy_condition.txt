@@ -1,5 +1,5 @@
 module_create_account_privacy_condition_title = Wilt u de privacyvoorwaarde inschakelen?
 module_create_account_privacy_condition_description = Voeg informatie toe over de privacyvoorwaarde
 
-text_privacy_conditions_description = De privacyverklaring is altijd beschikbaar in {{store_name}} en kan <a href="{{privacy_url}}" target="_blank" rel="noreferrer"> <u> hier </u> <worden gelezen / a>.
+text_privacy_conditions_description = De privacyverklaring is altijd beschikbaar in {{store_name}} en kan <a href="{{privacy_url}}" target="_blank" rel="noopener"> <u> hier </u> <worden gelezen / a>.
 text_privacy_conditions_agree = Vink dit vakje aan om uw toestemming te geven met betrekking tot ons privacybeleid

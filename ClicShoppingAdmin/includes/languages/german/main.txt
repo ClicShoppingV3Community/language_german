@@ -421,7 +421,7 @@ select_datas = --- Selecteer ---
 text_select = --- Selecteer ---
 text_all_orders = Alle status
 
-no_script_text = <strong> JavaScript lijkt te zijn uitgeschakeld in uw browser of is uitgeschakeld door een add-onblok. </strong> <br /> U moet JavaScript in uw browser hebben ingeschakeld om de functionaliteit van deze website te gebruiken. <a href="https://www.enable-javascript.com/" target="_blank" rel="noreferrer"> Klik hier voor instructies voor het inschakelen van JavaScript in uw browser </a>.
+no_script_text = <strong> JavaScript lijkt te zijn uitgeschakeld in uw browser of is uitgeschakeld door een add-onblok. </strong> <br /> U moet JavaScript in uw browser hebben ingeschakeld om de functionaliteit van deze website te gebruiken. <a href="https://www.enable-javascript.com/" target="_blank" rel="noopener"> Klik hier voor instructies voor het inschakelen van JavaScript in uw browser </a>.
 
 title_help_general = Help
 

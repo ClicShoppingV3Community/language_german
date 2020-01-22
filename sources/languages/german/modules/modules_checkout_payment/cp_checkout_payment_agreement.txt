@@ -2,6 +2,6 @@ module_checkout_payment_agagement_title = Wilt u een selectievakje weergeven om 
 module_checkout_payment_agagement_description = Toon een selectievakje om de voorwaarde en de voorwaarde te accepteren
 
 module_checkout_payment_agagement_table_heading_conditions = Algemene voorwaarden
-module_checkout_payment_agagement_text_conditions_confirm = Herken de algemene voorwaarden die aan deze bestelling zijn gekoppeld door het onderstaande vakje aan te vinken. De algemene voorwaarden kunnen <a href="{{shop_code_url_conditions_vente}}" target="_blank" rel="noreferrer"> <u> hier </u> </a> worden gelezen.
+module_checkout_payment_agagement_text_conditions_confirm = Herken de algemene voorwaarden die aan deze bestelling zijn gekoppeld door het onderstaande vakje aan te vinken. De algemene voorwaarden kunnen <a href="{{shop_code_url_conditions_vente}}" target="_blank" rel="noopener"> <u> hier </u> </a> worden gelezen.
 
 module_checkout_payment_agagement_text_conditions_description = <strong> Ik heb de voorwaarden voor deze bestelling gelezen en ga ermee akkoord </strong>.
