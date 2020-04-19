@@ -406,8 +406,6 @@ price_total = Totale prijs
 product_quantity = producthoeveelheid
 
 keywords_google_trend = Google trend sleutelwoorden
-analysis_google_tool = Google analyse tool
-
 success_status_updated = Update succesvol
 error_unknown_status_flag = Onbekende fout
 error_no_access = Geen geautoriseerde toegang
