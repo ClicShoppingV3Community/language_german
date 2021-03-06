@@ -30,6 +30,6 @@ text_ticker_featured = gekozen
 
 button_details = gegevens
 button_buy_now = Comprar
-button_exhausted = Agotado
+button_sold_out = Agotado
 
 template_does_not_exist = De sjabloon bestaat niet, verifieer uw sjabloon

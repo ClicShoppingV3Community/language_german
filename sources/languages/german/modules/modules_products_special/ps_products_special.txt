@@ -40,6 +40,6 @@ table_heading_date = datum
 
 button_details = Details
 button_buy_now = Kopen
-button_exhausted = Uitverkocht
+button_sold_out = Uitverkocht
 
 template_does_not_exist = Sjabloon bestaat niet, verifieer uw sjabloonc

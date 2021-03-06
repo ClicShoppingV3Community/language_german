@@ -11,7 +11,7 @@ html_lang = de
 title = {{store_name}}
 access_catalog = Winkeltoegang {{store_name}}
 
-header_title_top = <i class = "fas fa-home"> </i> <span class = "sr-only"> Home </span>
+header_title_top = <i class = "fas fa-home"> </i> <span class = "visually-hidden"> Home </span>
 header_title_catalog = Catalogus
 
 text_selected = Selecteren

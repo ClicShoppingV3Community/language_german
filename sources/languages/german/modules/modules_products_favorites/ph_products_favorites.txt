@@ -33,6 +33,6 @@ min_qty_product = min. aantal
 
 button_details = gegevens
 button_buy_now = kopen
-button_exhausted = Uitverkocht
+button_sold_out = Uitverkocht
 
 template_does_not_exist = De sjabloon bestaat niet, verifieer uw sjabloon
